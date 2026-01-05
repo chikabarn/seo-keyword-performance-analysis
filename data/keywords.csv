@@ -1,0 +1,2001 @@
+keyword_id,keyword,search_volume,keyword_difficulty,intent,category
+1,keyword_1,56922,56,Transactional,Product
+2,keyword_2,16295,58,Transactional,Product
+3,keyword_3,1360,18,Transactional,Blog
+4,keyword_4,38658,29,Informational,Product
+5,keyword_5,54843,70,Navigational,Landing Page
+6,keyword_6,45232,44,Informational,Blog
+7,keyword_7,11784,59,Transactional,Landing Page
+8,keyword_8,55386,71,Transactional,Landing Page
+9,keyword_9,6765,26,Informational,Landing Page
+10,keyword_10,17350,12,Informational,Product
+11,keyword_11,37694,41,Transactional,Product
+12,keyword_12,22462,22,Transactional,Landing Page
+13,keyword_13,47691,82,Transactional,Landing Page
+14,keyword_14,44631,77,Informational,Blog
+15,keyword_15,16523,23,Transactional,Blog
+16,keyword_16,41590,20,Transactional,Product
+17,keyword_17,2185,65,Navigational,Product
+18,keyword_18,1269,76,Informational,Blog
+19,keyword_19,56601,38,Navigational,Landing Page
+20,keyword_20,2933,18,Navigational,Product
+21,keyword_21,5811,76,Transactional,Landing Page
+22,keyword_22,38319,34,Informational,Blog
+23,keyword_23,39688,85,Transactional,Product
+24,keyword_24,18068,51,Informational,Product
+25,keyword_25,54207,18,Navigational,Blog
+26,keyword_26,20269,88,Informational,Product
+27,keyword_27,29193,49,Transactional,Blog
+28,keyword_28,6896,34,Transactional,Product
+29,keyword_29,27980,14,Transactional,Blog
+30,keyword_30,41934,20,Informational,Product
+31,keyword_31,26158,68,Navigational,Landing Page
+32,keyword_32,19442,88,Navigational,Landing Page
+33,keyword_33,57501,47,Informational,Landing Page
+34,keyword_34,18931,81,Transactional,Product
+35,keyword_35,3247,14,Navigational,Product
+36,keyword_36,58819,57,Transactional,Landing Page
+37,keyword_37,59650,27,Informational,Landing Page
+38,keyword_38,689,79,Transactional,Blog
+39,keyword_39,19618,46,Navigational,Blog
+40,keyword_40,36273,69,Navigational,Blog
+41,keyword_41,54310,57,Transactional,Landing Page
+42,keyword_42,2399,86,Informational,Landing Page
+43,keyword_43,57386,37,Transactional,Landing Page
+44,keyword_44,1767,78,Informational,Blog
+45,keyword_45,32051,86,Transactional,Product
+46,keyword_46,51180,49,Navigational,Landing Page
+47,keyword_47,11894,54,Informational,Product
+48,keyword_48,4056,71,Informational,Product
+49,keyword_49,4390,67,Informational,Product
+50,keyword_50,42106,76,Navigational,Blog
+51,keyword_51,31240,65,Transactional,Product
+52,keyword_52,15002,49,Navigational,Landing Page
+53,keyword_53,22277,49,Informational,Blog
+54,keyword_54,11127,86,Transactional,Landing Page
+55,keyword_55,9292,42,Navigational,Landing Page
+56,keyword_56,43823,15,Informational,Blog
+57,keyword_57,43521,28,Informational,Landing Page
+58,keyword_58,8933,89,Navigational,Landing Page
+59,keyword_59,43501,49,Navigational,Blog
+60,keyword_60,11516,68,Navigational,Landing Page
+61,keyword_61,24397,68,Informational,Product
+62,keyword_62,3112,57,Navigational,Landing Page
+63,keyword_63,56693,50,Informational,Product
+64,keyword_64,59207,22,Navigational,Landing Page
+65,keyword_65,55887,54,Informational,Blog
+66,keyword_66,55138,62,Informational,Blog
+67,keyword_67,23983,51,Transactional,Landing Page
+68,keyword_68,59322,72,Navigational,Blog
+69,keyword_69,49055,36,Navigational,Landing Page
+70,keyword_70,17659,47,Informational,Blog
+71,keyword_71,45474,69,Informational,Product
+72,keyword_72,41494,16,Informational,Landing Page
+73,keyword_73,15041,14,Transactional,Product
+74,keyword_74,36420,54,Transactional,Product
+75,keyword_75,27031,67,Informational,Landing Page
+76,keyword_76,2085,40,Navigational,Product
+77,keyword_77,4443,32,Navigational,Landing Page
+78,keyword_78,24439,51,Transactional,Product
+79,keyword_79,19957,19,Transactional,Landing Page
+80,keyword_80,1521,41,Informational,Landing Page
+81,keyword_81,12153,62,Navigational,Blog
+82,keyword_82,44073,39,Informational,Landing Page
+83,keyword_83,13917,48,Transactional,Landing Page
+84,keyword_84,53495,40,Navigational,Product
+85,keyword_85,41257,11,Navigational,Landing Page
+86,keyword_86,10192,87,Transactional,Blog
+87,keyword_87,46258,86,Informational,Product
+88,keyword_88,7373,21,Informational,Product
+89,keyword_89,6175,48,Navigational,Blog
+90,keyword_90,661,75,Transactional,Product
+91,keyword_91,37565,22,Navigational,Product
+92,keyword_92,27057,55,Transactional,Product
+93,keyword_93,34263,36,Informational,Product
+94,keyword_94,33106,26,Transactional,Blog
+95,keyword_95,12034,69,Informational,Blog
+96,keyword_96,29627,73,Transactional,Product
+97,keyword_97,40897,44,Navigational,Product
+98,keyword_98,26351,79,Informational,Blog
+99,keyword_99,1516,39,Navigational,Blog
+100,keyword_100,24753,80,Navigational,Blog
+101,keyword_101,56091,83,Informational,Product
+102,keyword_102,24776,72,Informational,Product
+103,keyword_103,23747,37,Navigational,Landing Page
+104,keyword_104,24800,69,Navigational,Blog
+105,keyword_105,9029,88,Navigational,Product
+106,keyword_106,17762,46,Navigational,Blog
+107,keyword_107,9768,31,Informational,Product
+108,keyword_108,21771,77,Informational,Blog
+109,keyword_109,12685,29,Navigational,Product
+110,keyword_110,21743,77,Transactional,Landing Page
+111,keyword_111,39599,73,Transactional,Landing Page
+112,keyword_112,9071,26,Informational,Blog
+113,keyword_113,58336,21,Navigational,Product
+114,keyword_114,40476,31,Navigational,Product
+115,keyword_115,38544,26,Informational,Blog
+116,keyword_116,51714,19,Transactional,Product
+117,keyword_117,49716,74,Transactional,Blog
+118,keyword_118,49484,31,Transactional,Product
+119,keyword_119,41274,59,Informational,Blog
+120,keyword_120,3068,23,Transactional,Product
+121,keyword_121,55115,73,Informational,Blog
+122,keyword_122,2527,56,Informational,Product
+123,keyword_123,3195,38,Navigational,Landing Page
+124,keyword_124,59339,85,Transactional,Product
+125,keyword_125,48690,45,Informational,Blog
+126,keyword_126,5758,61,Transactional,Landing Page
+127,keyword_127,22502,85,Transactional,Product
+128,keyword_128,40004,16,Navigational,Landing Page
+129,keyword_129,33659,38,Transactional,Product
+130,keyword_130,14486,20,Navigational,Landing Page
+131,keyword_131,13166,42,Informational,Blog
+132,keyword_132,39160,15,Transactional,Product
+133,keyword_133,4061,88,Informational,Product
+134,keyword_134,27354,41,Transactional,Blog
+135,keyword_135,39452,60,Informational,Landing Page
+136,keyword_136,52751,84,Transactional,Blog
+137,keyword_137,23162,67,Transactional,Blog
+138,keyword_138,8892,35,Transactional,Landing Page
+139,keyword_139,31035,55,Transactional,Blog
+140,keyword_140,13567,38,Transactional,Product
+141,keyword_141,48533,13,Transactional,Product
+142,keyword_142,52756,22,Transactional,Product
+143,keyword_143,24099,48,Transactional,Blog
+144,keyword_144,35722,24,Transactional,Product
+145,keyword_145,12337,38,Informational,Product
+146,keyword_146,14539,38,Navigational,Product
+147,keyword_147,58648,84,Transactional,Product
+148,keyword_148,31318,41,Navigational,Product
+149,keyword_149,19615,11,Transactional,Product
+150,keyword_150,11465,56,Transactional,Blog
+151,keyword_151,25038,87,Informational,Product
+152,keyword_152,43030,31,Informational,Product
+153,keyword_153,5556,84,Navigational,Landing Page
+154,keyword_154,32982,36,Informational,Blog
+155,keyword_155,48216,76,Informational,Blog
+156,keyword_156,8610,65,Navigational,Blog
+157,keyword_157,14273,30,Informational,Blog
+158,keyword_158,27766,56,Transactional,Product
+159,keyword_159,53492,89,Navigational,Product
+160,keyword_160,17912,68,Navigational,Landing Page
+161,keyword_161,57037,15,Transactional,Landing Page
+162,keyword_162,33770,28,Informational,Blog
+163,keyword_163,7410,66,Navigational,Landing Page
+164,keyword_164,45953,78,Navigational,Landing Page
+165,keyword_165,25946,12,Transactional,Blog
+166,keyword_166,56590,10,Transactional,Blog
+167,keyword_167,54140,67,Informational,Landing Page
+168,keyword_168,706,47,Navigational,Product
+169,keyword_169,22018,24,Informational,Landing Page
+170,keyword_170,22861,43,Informational,Landing Page
+171,keyword_171,57373,70,Transactional,Product
+172,keyword_172,23919,44,Navigational,Product
+173,keyword_173,51136,73,Navigational,Blog
+174,keyword_174,57510,34,Navigational,Blog
+175,keyword_175,49202,33,Transactional,Landing Page
+176,keyword_176,50515,21,Transactional,Product
+177,keyword_177,52442,27,Transactional,Blog
+178,keyword_178,57060,24,Transactional,Landing Page
+179,keyword_179,42023,89,Transactional,Product
+180,keyword_180,54768,36,Navigational,Landing Page
+181,keyword_181,45651,81,Informational,Blog
+182,keyword_182,22903,69,Navigational,Blog
+183,keyword_183,18641,55,Informational,Product
+184,keyword_184,15320,26,Transactional,Landing Page
+185,keyword_185,40842,62,Informational,Product
+186,keyword_186,6874,17,Navigational,Blog
+187,keyword_187,56544,88,Navigational,Blog
+188,keyword_188,2178,36,Informational,Landing Page
+189,keyword_189,52894,55,Transactional,Landing Page
+190,keyword_190,54288,59,Transactional,Landing Page
+191,keyword_191,34327,80,Navigational,Product
+192,keyword_192,56320,12,Informational,Landing Page
+193,keyword_193,16698,73,Transactional,Landing Page
+194,keyword_194,10414,53,Transactional,Blog
+195,keyword_195,28390,62,Navigational,Blog
+196,keyword_196,52809,33,Transactional,Landing Page
+197,keyword_197,22799,69,Informational,Landing Page
+198,keyword_198,44085,12,Navigational,Blog
+199,keyword_199,44189,29,Navigational,Landing Page
+200,keyword_200,43057,55,Informational,Product
+201,keyword_201,49580,24,Navigational,Product
+202,keyword_202,44520,34,Transactional,Product
+203,keyword_203,3193,87,Transactional,Landing Page
+204,keyword_204,29967,80,Informational,Blog
+205,keyword_205,30223,26,Transactional,Landing Page
+206,keyword_206,47199,18,Informational,Landing Page
+207,keyword_207,4127,47,Informational,Blog
+208,keyword_208,26439,57,Transactional,Blog
+209,keyword_209,49425,69,Informational,Blog
+210,keyword_210,43441,72,Transactional,Product
+211,keyword_211,22334,11,Navigational,Landing Page
+212,keyword_212,18547,81,Navigational,Blog
+213,keyword_213,26605,20,Informational,Landing Page
+214,keyword_214,10730,73,Transactional,Product
+215,keyword_215,16207,86,Transactional,Product
+216,keyword_216,22476,81,Navigational,Blog
+217,keyword_217,44762,30,Navigational,Blog
+218,keyword_218,24276,27,Transactional,Landing Page
+219,keyword_219,30580,73,Informational,Blog
+220,keyword_220,1806,47,Navigational,Landing Page
+221,keyword_221,7276,41,Informational,Blog
+222,keyword_222,27751,20,Informational,Landing Page
+223,keyword_223,55516,54,Navigational,Landing Page
+224,keyword_224,9974,42,Informational,Landing Page
+225,keyword_225,40794,50,Informational,Landing Page
+226,keyword_226,58553,17,Transactional,Product
+227,keyword_227,22459,20,Informational,Landing Page
+228,keyword_228,6030,60,Transactional,Blog
+229,keyword_229,29820,50,Navigational,Product
+230,keyword_230,54065,26,Navigational,Product
+231,keyword_231,4248,85,Transactional,Landing Page
+232,keyword_232,32468,55,Navigational,Product
+233,keyword_233,33062,41,Informational,Landing Page
+234,keyword_234,14045,88,Informational,Blog
+235,keyword_235,1163,89,Informational,Landing Page
+236,keyword_236,35266,63,Navigational,Product
+237,keyword_237,8494,29,Informational,Blog
+238,keyword_238,28521,42,Navigational,Landing Page
+239,keyword_239,30803,83,Informational,Blog
+240,keyword_240,51147,49,Transactional,Blog
+241,keyword_241,3804,41,Navigational,Product
+242,keyword_242,53415,11,Navigational,Blog
+243,keyword_243,54884,42,Informational,Product
+244,keyword_244,51505,86,Navigational,Blog
+245,keyword_245,47076,39,Navigational,Landing Page
+246,keyword_246,39853,42,Transactional,Blog
+247,keyword_247,18175,86,Transactional,Landing Page
+248,keyword_248,53233,35,Informational,Landing Page
+249,keyword_249,44917,31,Transactional,Blog
+250,keyword_250,24438,75,Informational,Landing Page
+251,keyword_251,24164,47,Informational,Blog
+252,keyword_252,2136,55,Informational,Blog
+253,keyword_253,20580,24,Navigational,Landing Page
+254,keyword_254,28228,53,Transactional,Landing Page
+255,keyword_255,50350,58,Informational,Product
+256,keyword_256,27236,84,Transactional,Landing Page
+257,keyword_257,29173,70,Informational,Product
+258,keyword_258,38005,76,Transactional,Landing Page
+259,keyword_259,47823,15,Transactional,Blog
+260,keyword_260,47145,18,Informational,Landing Page
+261,keyword_261,1354,15,Navigational,Blog
+262,keyword_262,25048,82,Transactional,Blog
+263,keyword_263,39123,41,Navigational,Blog
+264,keyword_264,7892,50,Navigational,Product
+265,keyword_265,56180,85,Informational,Landing Page
+266,keyword_266,47217,17,Informational,Blog
+267,keyword_267,54901,81,Informational,Blog
+268,keyword_268,22056,59,Transactional,Product
+269,keyword_269,51359,71,Informational,Landing Page
+270,keyword_270,39059,71,Informational,Landing Page
+271,keyword_271,26809,16,Transactional,Product
+272,keyword_272,22419,84,Transactional,Product
+273,keyword_273,5431,89,Informational,Landing Page
+274,keyword_274,53162,13,Informational,Product
+275,keyword_275,33470,15,Informational,Landing Page
+276,keyword_276,44715,67,Informational,Landing Page
+277,keyword_277,53870,31,Navigational,Blog
+278,keyword_278,13188,35,Navigational,Blog
+279,keyword_279,25842,12,Informational,Landing Page
+280,keyword_280,37657,50,Navigational,Landing Page
+281,keyword_281,2827,69,Transactional,Landing Page
+282,keyword_282,41272,23,Navigational,Landing Page
+283,keyword_283,52583,84,Navigational,Landing Page
+284,keyword_284,41045,21,Informational,Landing Page
+285,keyword_285,697,21,Navigational,Product
+286,keyword_286,24009,22,Navigational,Landing Page
+287,keyword_287,35198,34,Navigational,Product
+288,keyword_288,45042,54,Navigational,Product
+289,keyword_289,15587,28,Transactional,Landing Page
+290,keyword_290,23171,64,Informational,Landing Page
+291,keyword_291,25684,54,Informational,Product
+292,keyword_292,28348,17,Transactional,Product
+293,keyword_293,42607,62,Navigational,Landing Page
+294,keyword_294,21166,64,Transactional,Landing Page
+295,keyword_295,44857,41,Navigational,Product
+296,keyword_296,52163,60,Transactional,Product
+297,keyword_297,16208,53,Informational,Product
+298,keyword_298,26870,79,Informational,Blog
+299,keyword_299,50311,27,Informational,Product
+300,keyword_300,3311,31,Navigational,Blog
+301,keyword_301,56750,46,Navigational,Landing Page
+302,keyword_302,47511,65,Transactional,Landing Page
+303,keyword_303,7046,68,Transactional,Product
+304,keyword_304,59213,12,Informational,Landing Page
+305,keyword_305,35254,37,Navigational,Landing Page
+306,keyword_306,30706,83,Transactional,Landing Page
+307,keyword_307,41606,44,Navigational,Landing Page
+308,keyword_308,11911,70,Navigational,Blog
+309,keyword_309,3411,63,Informational,Blog
+310,keyword_310,2234,72,Informational,Product
+311,keyword_311,18727,88,Navigational,Product
+312,keyword_312,9180,16,Navigational,Product
+313,keyword_313,19860,85,Navigational,Landing Page
+314,keyword_314,18843,58,Navigational,Landing Page
+315,keyword_315,6259,40,Informational,Blog
+316,keyword_316,23578,67,Transactional,Blog
+317,keyword_317,35653,70,Informational,Product
+318,keyword_318,11611,33,Transactional,Blog
+319,keyword_319,38004,29,Navigational,Blog
+320,keyword_320,2302,46,Transactional,Blog
+321,keyword_321,8655,13,Informational,Blog
+322,keyword_322,8620,29,Informational,Blog
+323,keyword_323,39884,69,Navigational,Product
+324,keyword_324,47525,33,Informational,Product
+325,keyword_325,47754,59,Navigational,Blog
+326,keyword_326,22418,58,Informational,Product
+327,keyword_327,20945,60,Informational,Landing Page
+328,keyword_328,30806,45,Navigational,Blog
+329,keyword_329,17146,75,Transactional,Landing Page
+330,keyword_330,47343,88,Informational,Product
+331,keyword_331,55939,43,Transactional,Product
+332,keyword_332,31565,45,Informational,Landing Page
+333,keyword_333,25699,15,Informational,Product
+334,keyword_334,42476,48,Informational,Blog
+335,keyword_335,16871,51,Informational,Landing Page
+336,keyword_336,12335,67,Transactional,Blog
+337,keyword_337,46436,21,Transactional,Landing Page
+338,keyword_338,2549,12,Informational,Product
+339,keyword_339,32116,27,Informational,Landing Page
+340,keyword_340,38691,49,Transactional,Landing Page
+341,keyword_341,47857,30,Navigational,Blog
+342,keyword_342,21432,24,Navigational,Product
+343,keyword_343,52760,35,Transactional,Blog
+344,keyword_344,30355,17,Informational,Product
+345,keyword_345,7658,51,Informational,Blog
+346,keyword_346,43516,53,Navigational,Landing Page
+347,keyword_347,7900,23,Navigational,Blog
+348,keyword_348,52822,87,Transactional,Product
+349,keyword_349,43142,11,Navigational,Product
+350,keyword_350,15651,46,Transactional,Landing Page
+351,keyword_351,51907,78,Navigational,Product
+352,keyword_352,1654,47,Navigational,Blog
+353,keyword_353,4999,50,Navigational,Landing Page
+354,keyword_354,6795,71,Informational,Product
+355,keyword_355,55849,69,Informational,Product
+356,keyword_356,59540,23,Informational,Blog
+357,keyword_357,12683,11,Navigational,Blog
+358,keyword_358,29799,79,Transactional,Landing Page
+359,keyword_359,13374,26,Transactional,Product
+360,keyword_360,51300,37,Transactional,Blog
+361,keyword_361,33211,75,Transactional,Landing Page
+362,keyword_362,6039,44,Informational,Product
+363,keyword_363,42905,14,Informational,Product
+364,keyword_364,53851,74,Navigational,Landing Page
+365,keyword_365,58097,49,Navigational,Landing Page
+366,keyword_366,48854,85,Transactional,Blog
+367,keyword_367,3057,65,Informational,Product
+368,keyword_368,38860,45,Transactional,Product
+369,keyword_369,16982,54,Navigational,Product
+370,keyword_370,2700,32,Navigational,Landing Page
+371,keyword_371,47440,56,Transactional,Blog
+372,keyword_372,3461,40,Navigational,Product
+373,keyword_373,47475,20,Transactional,Landing Page
+374,keyword_374,21857,19,Informational,Product
+375,keyword_375,54085,76,Transactional,Blog
+376,keyword_376,12469,23,Informational,Product
+377,keyword_377,3369,89,Informational,Blog
+378,keyword_378,50608,83,Navigational,Blog
+379,keyword_379,47260,19,Navigational,Product
+380,keyword_380,29143,85,Navigational,Product
+381,keyword_381,25236,10,Transactional,Blog
+382,keyword_382,38967,14,Transactional,Landing Page
+383,keyword_383,23828,29,Navigational,Blog
+384,keyword_384,54145,17,Transactional,Product
+385,keyword_385,26376,52,Navigational,Product
+386,keyword_386,21795,85,Transactional,Landing Page
+387,keyword_387,4487,10,Informational,Blog
+388,keyword_388,59371,66,Informational,Blog
+389,keyword_389,22899,73,Navigational,Blog
+390,keyword_390,46714,37,Transactional,Product
+391,keyword_391,34486,46,Transactional,Blog
+392,keyword_392,21380,56,Informational,Landing Page
+393,keyword_393,5235,85,Informational,Product
+394,keyword_394,44564,46,Navigational,Product
+395,keyword_395,5055,58,Informational,Blog
+396,keyword_396,42414,53,Navigational,Landing Page
+397,keyword_397,41318,65,Informational,Product
+398,keyword_398,46025,37,Informational,Product
+399,keyword_399,20330,88,Transactional,Blog
+400,keyword_400,17929,15,Informational,Blog
+401,keyword_401,7393,70,Informational,Landing Page
+402,keyword_402,51345,29,Navigational,Blog
+403,keyword_403,14873,87,Informational,Landing Page
+404,keyword_404,47833,11,Navigational,Product
+405,keyword_405,3936,82,Informational,Landing Page
+406,keyword_406,9254,46,Informational,Landing Page
+407,keyword_407,11177,29,Navigational,Landing Page
+408,keyword_408,6395,35,Transactional,Product
+409,keyword_409,20238,38,Navigational,Blog
+410,keyword_410,31246,10,Navigational,Product
+411,keyword_411,49877,44,Navigational,Blog
+412,keyword_412,48904,79,Transactional,Landing Page
+413,keyword_413,54545,68,Informational,Landing Page
+414,keyword_414,32852,78,Navigational,Landing Page
+415,keyword_415,40290,42,Navigational,Landing Page
+416,keyword_416,42419,60,Transactional,Landing Page
+417,keyword_417,6100,87,Navigational,Blog
+418,keyword_418,29624,21,Informational,Blog
+419,keyword_419,28143,29,Transactional,Landing Page
+420,keyword_420,41264,62,Informational,Product
+421,keyword_421,9507,52,Informational,Product
+422,keyword_422,46214,59,Transactional,Landing Page
+423,keyword_423,57335,38,Navigational,Blog
+424,keyword_424,37910,66,Informational,Product
+425,keyword_425,44580,48,Informational,Product
+426,keyword_426,40947,65,Informational,Product
+427,keyword_427,8708,52,Informational,Landing Page
+428,keyword_428,56991,59,Transactional,Product
+429,keyword_429,59087,32,Transactional,Product
+430,keyword_430,19089,53,Informational,Product
+431,keyword_431,43984,47,Navigational,Product
+432,keyword_432,17953,32,Informational,Blog
+433,keyword_433,36712,54,Navigational,Landing Page
+434,keyword_434,44025,61,Informational,Landing Page
+435,keyword_435,47702,89,Navigational,Blog
+436,keyword_436,33135,59,Informational,Blog
+437,keyword_437,34328,17,Navigational,Landing Page
+438,keyword_438,19211,10,Informational,Product
+439,keyword_439,3920,17,Informational,Product
+440,keyword_440,31716,38,Navigational,Landing Page
+441,keyword_441,801,14,Transactional,Product
+442,keyword_442,45736,56,Navigational,Blog
+443,keyword_443,50258,43,Transactional,Product
+444,keyword_444,52822,74,Informational,Product
+445,keyword_445,1199,64,Navigational,Product
+446,keyword_446,54740,52,Navigational,Landing Page
+447,keyword_447,58983,83,Navigational,Blog
+448,keyword_448,690,39,Transactional,Product
+449,keyword_449,10992,26,Transactional,Landing Page
+450,keyword_450,50632,35,Informational,Product
+451,keyword_451,36243,17,Transactional,Blog
+452,keyword_452,6602,56,Transactional,Product
+453,keyword_453,50836,85,Informational,Blog
+454,keyword_454,52979,81,Navigational,Product
+455,keyword_455,20278,55,Navigational,Blog
+456,keyword_456,57971,77,Informational,Product
+457,keyword_457,27141,42,Navigational,Blog
+458,keyword_458,35084,10,Transactional,Product
+459,keyword_459,33245,28,Informational,Product
+460,keyword_460,55506,40,Informational,Landing Page
+461,keyword_461,23593,89,Informational,Landing Page
+462,keyword_462,1069,23,Navigational,Blog
+463,keyword_463,38710,62,Informational,Product
+464,keyword_464,35163,57,Informational,Blog
+465,keyword_465,52385,78,Informational,Landing Page
+466,keyword_466,37131,71,Navigational,Blog
+467,keyword_467,46181,75,Transactional,Blog
+468,keyword_468,7955,73,Informational,Landing Page
+469,keyword_469,4514,79,Transactional,Product
+470,keyword_470,11593,72,Navigational,Blog
+471,keyword_471,18570,82,Navigational,Landing Page
+472,keyword_472,36277,42,Navigational,Product
+473,keyword_473,57458,50,Navigational,Landing Page
+474,keyword_474,17038,57,Transactional,Blog
+475,keyword_475,11229,22,Informational,Product
+476,keyword_476,34677,82,Navigational,Product
+477,keyword_477,45517,86,Navigational,Landing Page
+478,keyword_478,1284,40,Transactional,Landing Page
+479,keyword_479,28251,84,Transactional,Landing Page
+480,keyword_480,41364,77,Navigational,Product
+481,keyword_481,40828,13,Informational,Product
+482,keyword_482,13033,28,Informational,Blog
+483,keyword_483,40611,79,Navigational,Product
+484,keyword_484,40474,22,Transactional,Blog
+485,keyword_485,55248,32,Navigational,Landing Page
+486,keyword_486,6301,84,Navigational,Landing Page
+487,keyword_487,19690,10,Transactional,Product
+488,keyword_488,50189,63,Navigational,Landing Page
+489,keyword_489,39254,80,Navigational,Landing Page
+490,keyword_490,51493,24,Navigational,Product
+491,keyword_491,30092,74,Transactional,Blog
+492,keyword_492,11147,85,Informational,Product
+493,keyword_493,9216,80,Informational,Blog
+494,keyword_494,23855,24,Transactional,Product
+495,keyword_495,22509,30,Informational,Product
+496,keyword_496,52602,28,Navigational,Landing Page
+497,keyword_497,24876,69,Informational,Product
+498,keyword_498,45591,42,Navigational,Product
+499,keyword_499,5280,58,Informational,Blog
+500,keyword_500,2868,44,Transactional,Landing Page
+501,keyword_501,12539,53,Informational,Blog
+502,keyword_502,7155,20,Informational,Blog
+503,keyword_503,41441,81,Informational,Landing Page
+504,keyword_504,4995,87,Transactional,Landing Page
+505,keyword_505,11393,83,Informational,Landing Page
+506,keyword_506,26047,75,Transactional,Product
+507,keyword_507,22886,55,Navigational,Landing Page
+508,keyword_508,56266,18,Informational,Landing Page
+509,keyword_509,59010,12,Transactional,Landing Page
+510,keyword_510,13903,35,Transactional,Blog
+511,keyword_511,32597,81,Informational,Blog
+512,keyword_512,13621,57,Navigational,Product
+513,keyword_513,55571,75,Transactional,Blog
+514,keyword_514,11466,79,Informational,Product
+515,keyword_515,59826,37,Navigational,Blog
+516,keyword_516,34121,35,Transactional,Landing Page
+517,keyword_517,53798,34,Transactional,Blog
+518,keyword_518,28812,21,Navigational,Product
+519,keyword_519,53421,14,Navigational,Blog
+520,keyword_520,50226,57,Informational,Landing Page
+521,keyword_521,50800,46,Informational,Product
+522,keyword_522,23177,88,Transactional,Landing Page
+523,keyword_523,56109,53,Navigational,Landing Page
+524,keyword_524,31789,24,Navigational,Product
+525,keyword_525,57161,52,Navigational,Landing Page
+526,keyword_526,31524,57,Transactional,Landing Page
+527,keyword_527,43175,79,Navigational,Blog
+528,keyword_528,5277,55,Navigational,Landing Page
+529,keyword_529,53506,52,Transactional,Landing Page
+530,keyword_530,30249,30,Informational,Landing Page
+531,keyword_531,15838,32,Informational,Landing Page
+532,keyword_532,2991,89,Transactional,Product
+533,keyword_533,27736,56,Navigational,Blog
+534,keyword_534,48596,24,Transactional,Landing Page
+535,keyword_535,15099,34,Informational,Landing Page
+536,keyword_536,20008,45,Informational,Product
+537,keyword_537,55343,84,Transactional,Landing Page
+538,keyword_538,3551,60,Transactional,Product
+539,keyword_539,49247,24,Informational,Blog
+540,keyword_540,49656,77,Transactional,Blog
+541,keyword_541,22106,30,Informational,Landing Page
+542,keyword_542,22199,22,Transactional,Landing Page
+543,keyword_543,54521,28,Transactional,Landing Page
+544,keyword_544,1376,43,Transactional,Product
+545,keyword_545,58835,87,Informational,Landing Page
+546,keyword_546,56679,77,Transactional,Landing Page
+547,keyword_547,32593,61,Informational,Blog
+548,keyword_548,4642,36,Informational,Landing Page
+549,keyword_549,15702,38,Transactional,Blog
+550,keyword_550,40234,37,Transactional,Landing Page
+551,keyword_551,7579,44,Informational,Blog
+552,keyword_552,8487,17,Informational,Landing Page
+553,keyword_553,40067,25,Navigational,Blog
+554,keyword_554,29440,45,Informational,Product
+555,keyword_555,37733,39,Navigational,Blog
+556,keyword_556,17519,27,Navigational,Blog
+557,keyword_557,46685,11,Navigational,Blog
+558,keyword_558,18577,58,Transactional,Landing Page
+559,keyword_559,26758,86,Transactional,Landing Page
+560,keyword_560,21636,13,Informational,Landing Page
+561,keyword_561,8811,84,Navigational,Product
+562,keyword_562,17714,16,Transactional,Product
+563,keyword_563,14598,83,Transactional,Blog
+564,keyword_564,28751,48,Transactional,Product
+565,keyword_565,38445,22,Transactional,Blog
+566,keyword_566,47530,40,Transactional,Blog
+567,keyword_567,26445,80,Navigational,Blog
+568,keyword_568,25816,72,Navigational,Product
+569,keyword_569,32717,65,Navigational,Landing Page
+570,keyword_570,8808,51,Navigational,Product
+571,keyword_571,6449,70,Informational,Blog
+572,keyword_572,52490,51,Navigational,Blog
+573,keyword_573,1650,65,Transactional,Product
+574,keyword_574,24444,45,Navigational,Blog
+575,keyword_575,35199,77,Informational,Blog
+576,keyword_576,9704,16,Transactional,Product
+577,keyword_577,51316,63,Navigational,Product
+578,keyword_578,1581,10,Navigational,Product
+579,keyword_579,29805,53,Navigational,Blog
+580,keyword_580,17396,54,Transactional,Blog
+581,keyword_581,46675,56,Transactional,Landing Page
+582,keyword_582,8305,22,Informational,Landing Page
+583,keyword_583,5737,31,Transactional,Product
+584,keyword_584,50211,30,Transactional,Landing Page
+585,keyword_585,20556,18,Navigational,Blog
+586,keyword_586,46043,35,Transactional,Landing Page
+587,keyword_587,57056,18,Navigational,Blog
+588,keyword_588,49512,24,Navigational,Product
+589,keyword_589,46452,19,Transactional,Product
+590,keyword_590,3843,51,Informational,Blog
+591,keyword_591,14000,81,Informational,Landing Page
+592,keyword_592,53722,33,Transactional,Product
+593,keyword_593,29875,89,Informational,Product
+594,keyword_594,10162,58,Navigational,Landing Page
+595,keyword_595,17464,35,Navigational,Landing Page
+596,keyword_596,48393,46,Transactional,Blog
+597,keyword_597,56656,77,Informational,Landing Page
+598,keyword_598,8630,59,Informational,Landing Page
+599,keyword_599,20031,33,Navigational,Landing Page
+600,keyword_600,53901,28,Transactional,Blog
+601,keyword_601,2179,69,Informational,Blog
+602,keyword_602,4006,48,Transactional,Product
+603,keyword_603,13784,83,Informational,Blog
+604,keyword_604,7753,27,Navigational,Product
+605,keyword_605,19628,28,Navigational,Landing Page
+606,keyword_606,28432,45,Transactional,Product
+607,keyword_607,9935,83,Navigational,Product
+608,keyword_608,54840,64,Informational,Landing Page
+609,keyword_609,44578,78,Navigational,Product
+610,keyword_610,13796,56,Transactional,Blog
+611,keyword_611,51793,58,Transactional,Blog
+612,keyword_612,30945,42,Transactional,Blog
+613,keyword_613,13745,30,Informational,Blog
+614,keyword_614,29624,31,Informational,Product
+615,keyword_615,30399,57,Informational,Product
+616,keyword_616,44419,46,Informational,Landing Page
+617,keyword_617,43725,24,Informational,Product
+618,keyword_618,56269,44,Navigational,Product
+619,keyword_619,35747,80,Informational,Product
+620,keyword_620,56136,41,Informational,Landing Page
+621,keyword_621,29722,20,Navigational,Blog
+622,keyword_622,26711,19,Informational,Product
+623,keyword_623,57073,82,Transactional,Landing Page
+624,keyword_624,59601,87,Informational,Landing Page
+625,keyword_625,37720,86,Informational,Landing Page
+626,keyword_626,27146,66,Transactional,Blog
+627,keyword_627,39149,34,Transactional,Product
+628,keyword_628,23549,11,Transactional,Landing Page
+629,keyword_629,14569,73,Transactional,Blog
+630,keyword_630,33080,44,Informational,Landing Page
+631,keyword_631,32343,16,Transactional,Landing Page
+632,keyword_632,3349,27,Transactional,Landing Page
+633,keyword_633,40658,76,Navigational,Landing Page
+634,keyword_634,23789,51,Transactional,Landing Page
+635,keyword_635,45190,48,Transactional,Blog
+636,keyword_636,35757,50,Navigational,Product
+637,keyword_637,10323,84,Navigational,Product
+638,keyword_638,42475,33,Informational,Product
+639,keyword_639,10040,69,Navigational,Product
+640,keyword_640,16864,55,Informational,Blog
+641,keyword_641,5111,28,Navigational,Blog
+642,keyword_642,28163,77,Navigational,Blog
+643,keyword_643,52491,51,Informational,Landing Page
+644,keyword_644,58179,41,Navigational,Landing Page
+645,keyword_645,39146,48,Informational,Landing Page
+646,keyword_646,31477,45,Navigational,Product
+647,keyword_647,29668,45,Transactional,Landing Page
+648,keyword_648,49615,12,Navigational,Product
+649,keyword_649,25971,82,Informational,Landing Page
+650,keyword_650,23187,17,Navigational,Product
+651,keyword_651,1351,79,Informational,Landing Page
+652,keyword_652,18571,50,Informational,Landing Page
+653,keyword_653,59775,77,Transactional,Blog
+654,keyword_654,7333,22,Transactional,Landing Page
+655,keyword_655,12438,58,Informational,Landing Page
+656,keyword_656,35695,69,Navigational,Blog
+657,keyword_657,26644,11,Informational,Product
+658,keyword_658,4500,69,Informational,Blog
+659,keyword_659,5552,14,Navigational,Blog
+660,keyword_660,36006,53,Navigational,Product
+661,keyword_661,28574,36,Navigational,Landing Page
+662,keyword_662,55384,41,Navigational,Product
+663,keyword_663,38655,30,Informational,Landing Page
+664,keyword_664,41270,17,Informational,Landing Page
+665,keyword_665,32820,81,Transactional,Product
+666,keyword_666,38804,59,Informational,Blog
+667,keyword_667,46747,76,Navigational,Product
+668,keyword_668,4413,53,Transactional,Landing Page
+669,keyword_669,17950,67,Navigational,Product
+670,keyword_670,24607,12,Informational,Product
+671,keyword_671,21264,79,Transactional,Landing Page
+672,keyword_672,43904,11,Navigational,Blog
+673,keyword_673,20991,53,Transactional,Product
+674,keyword_674,38994,11,Transactional,Landing Page
+675,keyword_675,3873,44,Informational,Landing Page
+676,keyword_676,12661,39,Navigational,Product
+677,keyword_677,32496,17,Transactional,Blog
+678,keyword_678,27622,31,Transactional,Product
+679,keyword_679,58597,53,Navigational,Blog
+680,keyword_680,35350,67,Transactional,Blog
+681,keyword_681,27850,45,Transactional,Blog
+682,keyword_682,27972,78,Transactional,Blog
+683,keyword_683,29261,86,Navigational,Product
+684,keyword_684,25851,40,Navigational,Landing Page
+685,keyword_685,23632,56,Navigational,Landing Page
+686,keyword_686,49549,64,Navigational,Landing Page
+687,keyword_687,15805,89,Informational,Landing Page
+688,keyword_688,10317,71,Transactional,Landing Page
+689,keyword_689,11761,39,Navigational,Landing Page
+690,keyword_690,917,64,Transactional,Product
+691,keyword_691,57958,25,Transactional,Blog
+692,keyword_692,42076,21,Informational,Landing Page
+693,keyword_693,20858,26,Navigational,Product
+694,keyword_694,3767,25,Navigational,Landing Page
+695,keyword_695,17709,21,Transactional,Landing Page
+696,keyword_696,24552,17,Navigational,Blog
+697,keyword_697,39013,12,Transactional,Blog
+698,keyword_698,26592,25,Transactional,Blog
+699,keyword_699,11838,39,Informational,Landing Page
+700,keyword_700,912,32,Informational,Landing Page
+701,keyword_701,8043,14,Informational,Landing Page
+702,keyword_702,40855,74,Transactional,Blog
+703,keyword_703,33996,39,Navigational,Product
+704,keyword_704,24048,30,Informational,Landing Page
+705,keyword_705,27884,79,Navigational,Landing Page
+706,keyword_706,58519,31,Informational,Landing Page
+707,keyword_707,44925,81,Informational,Product
+708,keyword_708,39256,41,Transactional,Landing Page
+709,keyword_709,19388,42,Informational,Product
+710,keyword_710,36235,25,Informational,Landing Page
+711,keyword_711,47795,85,Transactional,Product
+712,keyword_712,52438,47,Navigational,Landing Page
+713,keyword_713,49316,23,Informational,Blog
+714,keyword_714,18006,45,Transactional,Blog
+715,keyword_715,20963,32,Informational,Blog
+716,keyword_716,18455,75,Transactional,Blog
+717,keyword_717,38341,11,Navigational,Landing Page
+718,keyword_718,5604,82,Navigational,Blog
+719,keyword_719,35411,74,Transactional,Product
+720,keyword_720,59531,84,Transactional,Blog
+721,keyword_721,23690,76,Transactional,Blog
+722,keyword_722,7857,61,Navigational,Blog
+723,keyword_723,32979,71,Informational,Landing Page
+724,keyword_724,45311,32,Navigational,Blog
+725,keyword_725,36708,35,Transactional,Product
+726,keyword_726,20650,77,Transactional,Blog
+727,keyword_727,6144,64,Navigational,Blog
+728,keyword_728,43786,15,Transactional,Blog
+729,keyword_729,47820,44,Navigational,Product
+730,keyword_730,3414,31,Transactional,Blog
+731,keyword_731,21852,52,Informational,Product
+732,keyword_732,55569,24,Informational,Product
+733,keyword_733,46852,69,Transactional,Blog
+734,keyword_734,45412,21,Navigational,Product
+735,keyword_735,14897,58,Informational,Landing Page
+736,keyword_736,42055,51,Navigational,Blog
+737,keyword_737,47459,47,Transactional,Blog
+738,keyword_738,1228,54,Navigational,Product
+739,keyword_739,51017,44,Informational,Product
+740,keyword_740,54144,39,Navigational,Blog
+741,keyword_741,1198,39,Navigational,Landing Page
+742,keyword_742,40454,87,Transactional,Product
+743,keyword_743,47780,15,Transactional,Product
+744,keyword_744,14423,76,Transactional,Landing Page
+745,keyword_745,17279,89,Informational,Landing Page
+746,keyword_746,7900,16,Informational,Blog
+747,keyword_747,24966,61,Transactional,Landing Page
+748,keyword_748,37439,23,Transactional,Blog
+749,keyword_749,4860,82,Informational,Landing Page
+750,keyword_750,35770,24,Informational,Product
+751,keyword_751,59663,30,Informational,Blog
+752,keyword_752,17601,44,Informational,Blog
+753,keyword_753,52434,75,Transactional,Blog
+754,keyword_754,32807,11,Informational,Landing Page
+755,keyword_755,54598,44,Transactional,Product
+756,keyword_756,5986,87,Navigational,Blog
+757,keyword_757,8835,29,Navigational,Blog
+758,keyword_758,21864,19,Informational,Blog
+759,keyword_759,56918,34,Navigational,Blog
+760,keyword_760,37759,75,Navigational,Product
+761,keyword_761,24076,34,Navigational,Landing Page
+762,keyword_762,32167,63,Informational,Product
+763,keyword_763,11630,42,Informational,Blog
+764,keyword_764,22472,45,Navigational,Product
+765,keyword_765,40919,23,Transactional,Blog
+766,keyword_766,53288,74,Navigational,Landing Page
+767,keyword_767,1667,89,Informational,Landing Page
+768,keyword_768,27692,63,Informational,Landing Page
+769,keyword_769,1562,61,Informational,Blog
+770,keyword_770,19040,12,Navigational,Product
+771,keyword_771,24744,50,Transactional,Landing Page
+772,keyword_772,22045,15,Informational,Blog
+773,keyword_773,22189,34,Informational,Blog
+774,keyword_774,11674,22,Navigational,Product
+775,keyword_775,23425,17,Transactional,Landing Page
+776,keyword_776,37997,30,Navigational,Blog
+777,keyword_777,9848,77,Informational,Product
+778,keyword_778,24214,34,Transactional,Landing Page
+779,keyword_779,38602,88,Transactional,Product
+780,keyword_780,9424,77,Informational,Product
+781,keyword_781,37598,54,Transactional,Blog
+782,keyword_782,24894,69,Transactional,Blog
+783,keyword_783,7301,21,Navigational,Blog
+784,keyword_784,38114,41,Informational,Product
+785,keyword_785,7231,22,Informational,Blog
+786,keyword_786,48636,40,Informational,Product
+787,keyword_787,24125,87,Informational,Product
+788,keyword_788,17837,29,Informational,Blog
+789,keyword_789,35807,27,Transactional,Landing Page
+790,keyword_790,7556,69,Navigational,Landing Page
+791,keyword_791,12016,72,Informational,Landing Page
+792,keyword_792,44761,15,Navigational,Product
+793,keyword_793,2042,41,Navigational,Product
+794,keyword_794,22177,52,Transactional,Product
+795,keyword_795,47232,11,Informational,Blog
+796,keyword_796,50843,69,Transactional,Product
+797,keyword_797,39581,32,Informational,Blog
+798,keyword_798,28069,40,Transactional,Blog
+799,keyword_799,23822,14,Navigational,Landing Page
+800,keyword_800,19565,43,Informational,Landing Page
+801,keyword_801,59061,19,Navigational,Landing Page
+802,keyword_802,18424,11,Navigational,Blog
+803,keyword_803,23056,20,Transactional,Blog
+804,keyword_804,55193,59,Informational,Blog
+805,keyword_805,27462,40,Navigational,Product
+806,keyword_806,28795,65,Transactional,Blog
+807,keyword_807,14307,88,Informational,Landing Page
+808,keyword_808,42848,82,Informational,Landing Page
+809,keyword_809,26932,18,Navigational,Blog
+810,keyword_810,18249,30,Informational,Blog
+811,keyword_811,41959,82,Navigational,Landing Page
+812,keyword_812,26756,37,Informational,Blog
+813,keyword_813,58354,71,Transactional,Landing Page
+814,keyword_814,40762,16,Navigational,Product
+815,keyword_815,37580,89,Navigational,Landing Page
+816,keyword_816,1824,25,Informational,Product
+817,keyword_817,26231,13,Informational,Blog
+818,keyword_818,59671,13,Navigational,Blog
+819,keyword_819,36409,49,Informational,Product
+820,keyword_820,24303,26,Transactional,Blog
+821,keyword_821,20370,61,Informational,Product
+822,keyword_822,35078,61,Transactional,Blog
+823,keyword_823,7088,45,Transactional,Landing Page
+824,keyword_824,52575,47,Transactional,Blog
+825,keyword_825,38569,59,Transactional,Landing Page
+826,keyword_826,27290,72,Transactional,Landing Page
+827,keyword_827,53838,72,Informational,Product
+828,keyword_828,25789,71,Transactional,Blog
+829,keyword_829,55629,16,Informational,Product
+830,keyword_830,28678,36,Transactional,Blog
+831,keyword_831,29210,23,Navigational,Landing Page
+832,keyword_832,15985,80,Transactional,Landing Page
+833,keyword_833,44982,14,Navigational,Blog
+834,keyword_834,21152,64,Transactional,Blog
+835,keyword_835,5248,11,Transactional,Product
+836,keyword_836,21733,71,Transactional,Blog
+837,keyword_837,9935,30,Navigational,Blog
+838,keyword_838,4209,88,Navigational,Blog
+839,keyword_839,58925,30,Transactional,Product
+840,keyword_840,30855,19,Informational,Blog
+841,keyword_841,56271,67,Transactional,Landing Page
+842,keyword_842,58299,48,Navigational,Product
+843,keyword_843,13616,14,Transactional,Product
+844,keyword_844,25970,74,Navigational,Landing Page
+845,keyword_845,42844,22,Navigational,Landing Page
+846,keyword_846,43418,62,Navigational,Landing Page
+847,keyword_847,52724,54,Transactional,Blog
+848,keyword_848,39798,41,Navigational,Landing Page
+849,keyword_849,43456,45,Navigational,Blog
+850,keyword_850,15183,69,Transactional,Product
+851,keyword_851,1004,20,Navigational,Product
+852,keyword_852,34482,72,Transactional,Landing Page
+853,keyword_853,34799,30,Navigational,Blog
+854,keyword_854,28516,61,Informational,Landing Page
+855,keyword_855,24460,64,Informational,Landing Page
+856,keyword_856,34091,35,Navigational,Blog
+857,keyword_857,17812,77,Informational,Landing Page
+858,keyword_858,38297,43,Transactional,Product
+859,keyword_859,46696,61,Informational,Landing Page
+860,keyword_860,49785,61,Navigational,Blog
+861,keyword_861,2605,38,Navigational,Blog
+862,keyword_862,36895,47,Transactional,Product
+863,keyword_863,46240,51,Navigational,Blog
+864,keyword_864,23200,30,Transactional,Blog
+865,keyword_865,35120,51,Informational,Product
+866,keyword_866,38178,22,Informational,Landing Page
+867,keyword_867,21059,73,Transactional,Product
+868,keyword_868,28009,26,Transactional,Landing Page
+869,keyword_869,28360,18,Navigational,Product
+870,keyword_870,11503,50,Informational,Landing Page
+871,keyword_871,22232,10,Transactional,Product
+872,keyword_872,26326,11,Informational,Landing Page
+873,keyword_873,30854,69,Transactional,Product
+874,keyword_874,14343,57,Informational,Landing Page
+875,keyword_875,44972,38,Navigational,Product
+876,keyword_876,49029,19,Informational,Blog
+877,keyword_877,6690,67,Informational,Landing Page
+878,keyword_878,18140,69,Informational,Product
+879,keyword_879,53028,30,Informational,Landing Page
+880,keyword_880,38913,37,Informational,Landing Page
+881,keyword_881,53138,84,Navigational,Product
+882,keyword_882,53236,43,Transactional,Landing Page
+883,keyword_883,42856,17,Informational,Product
+884,keyword_884,45097,68,Navigational,Blog
+885,keyword_885,41321,81,Informational,Landing Page
+886,keyword_886,3830,58,Informational,Blog
+887,keyword_887,19587,88,Transactional,Landing Page
+888,keyword_888,41930,26,Informational,Landing Page
+889,keyword_889,25004,69,Navigational,Landing Page
+890,keyword_890,7614,54,Navigational,Product
+891,keyword_891,13823,78,Transactional,Blog
+892,keyword_892,34621,41,Informational,Landing Page
+893,keyword_893,11475,53,Navigational,Product
+894,keyword_894,11523,74,Informational,Landing Page
+895,keyword_895,21947,17,Informational,Product
+896,keyword_896,25433,86,Informational,Landing Page
+897,keyword_897,24459,81,Transactional,Blog
+898,keyword_898,1167,52,Informational,Blog
+899,keyword_899,54120,10,Navigational,Landing Page
+900,keyword_900,30203,60,Informational,Product
+901,keyword_901,9837,33,Navigational,Landing Page
+902,keyword_902,46927,33,Informational,Product
+903,keyword_903,56471,26,Navigational,Landing Page
+904,keyword_904,36987,14,Navigational,Product
+905,keyword_905,19629,29,Informational,Blog
+906,keyword_906,40751,30,Informational,Landing Page
+907,keyword_907,32421,67,Navigational,Blog
+908,keyword_908,33807,40,Transactional,Blog
+909,keyword_909,27855,20,Informational,Landing Page
+910,keyword_910,38232,61,Transactional,Landing Page
+911,keyword_911,5335,24,Informational,Product
+912,keyword_912,20659,16,Informational,Product
+913,keyword_913,39310,37,Informational,Blog
+914,keyword_914,48105,60,Informational,Product
+915,keyword_915,56754,67,Transactional,Product
+916,keyword_916,40580,14,Informational,Landing Page
+917,keyword_917,38588,14,Navigational,Product
+918,keyword_918,13716,17,Navigational,Blog
+919,keyword_919,55784,73,Transactional,Product
+920,keyword_920,57543,19,Informational,Blog
+921,keyword_921,36047,47,Navigational,Landing Page
+922,keyword_922,31971,17,Transactional,Blog
+923,keyword_923,17808,34,Informational,Product
+924,keyword_924,28032,82,Navigational,Landing Page
+925,keyword_925,34849,75,Navigational,Product
+926,keyword_926,57366,88,Transactional,Landing Page
+927,keyword_927,52976,59,Informational,Landing Page
+928,keyword_928,45945,76,Informational,Product
+929,keyword_929,6213,58,Navigational,Product
+930,keyword_930,56678,45,Navigational,Landing Page
+931,keyword_931,49907,77,Navigational,Landing Page
+932,keyword_932,5304,87,Informational,Product
+933,keyword_933,51490,50,Transactional,Blog
+934,keyword_934,10636,71,Transactional,Product
+935,keyword_935,509,19,Informational,Landing Page
+936,keyword_936,19755,30,Transactional,Product
+937,keyword_937,58641,45,Navigational,Blog
+938,keyword_938,24293,21,Transactional,Product
+939,keyword_939,57070,11,Transactional,Landing Page
+940,keyword_940,30048,22,Transactional,Product
+941,keyword_941,38392,62,Navigational,Landing Page
+942,keyword_942,1515,41,Informational,Landing Page
+943,keyword_943,59668,25,Navigational,Product
+944,keyword_944,28212,41,Informational,Landing Page
+945,keyword_945,35461,41,Informational,Landing Page
+946,keyword_946,8915,20,Informational,Blog
+947,keyword_947,46818,19,Transactional,Blog
+948,keyword_948,47780,24,Transactional,Blog
+949,keyword_949,24333,26,Informational,Blog
+950,keyword_950,4658,49,Informational,Landing Page
+951,keyword_951,20809,27,Transactional,Product
+952,keyword_952,7470,64,Navigational,Landing Page
+953,keyword_953,7438,82,Informational,Landing Page
+954,keyword_954,21668,34,Navigational,Landing Page
+955,keyword_955,47040,68,Transactional,Product
+956,keyword_956,20884,87,Informational,Blog
+957,keyword_957,18517,31,Navigational,Landing Page
+958,keyword_958,10844,39,Navigational,Landing Page
+959,keyword_959,40534,53,Navigational,Blog
+960,keyword_960,9202,41,Transactional,Landing Page
+961,keyword_961,884,60,Transactional,Product
+962,keyword_962,904,55,Navigational,Landing Page
+963,keyword_963,41443,30,Navigational,Landing Page
+964,keyword_964,48426,41,Transactional,Blog
+965,keyword_965,29689,48,Navigational,Landing Page
+966,keyword_966,13263,21,Navigational,Landing Page
+967,keyword_967,18884,56,Transactional,Product
+968,keyword_968,33106,27,Navigational,Blog
+969,keyword_969,10360,30,Navigational,Blog
+970,keyword_970,39257,22,Navigational,Product
+971,keyword_971,15606,30,Transactional,Landing Page
+972,keyword_972,51112,17,Navigational,Blog
+973,keyword_973,24074,55,Transactional,Blog
+974,keyword_974,24024,16,Transactional,Landing Page
+975,keyword_975,4136,32,Informational,Landing Page
+976,keyword_976,11416,84,Informational,Blog
+977,keyword_977,5309,31,Navigational,Landing Page
+978,keyword_978,32701,31,Transactional,Blog
+979,keyword_979,53830,38,Informational,Landing Page
+980,keyword_980,13956,22,Navigational,Landing Page
+981,keyword_981,48712,11,Informational,Product
+982,keyword_982,56897,38,Informational,Landing Page
+983,keyword_983,56252,88,Transactional,Product
+984,keyword_984,39265,61,Transactional,Landing Page
+985,keyword_985,35316,36,Informational,Blog
+986,keyword_986,45606,59,Informational,Blog
+987,keyword_987,54432,88,Transactional,Landing Page
+988,keyword_988,17600,32,Navigational,Landing Page
+989,keyword_989,57591,53,Transactional,Blog
+990,keyword_990,22449,86,Informational,Landing Page
+991,keyword_991,5044,31,Navigational,Product
+992,keyword_992,38244,52,Informational,Product
+993,keyword_993,46043,46,Navigational,Product
+994,keyword_994,43283,70,Informational,Product
+995,keyword_995,27157,65,Navigational,Product
+996,keyword_996,36687,12,Navigational,Landing Page
+997,keyword_997,47698,72,Informational,Landing Page
+998,keyword_998,7739,28,Navigational,Product
+999,keyword_999,59418,32,Transactional,Landing Page
+1000,keyword_1000,14989,38,Informational,Landing Page
+1001,keyword_1001,49901,39,Transactional,Product
+1002,keyword_1002,58517,48,Informational,Landing Page
+1003,keyword_1003,43625,34,Navigational,Landing Page
+1004,keyword_1004,50422,17,Navigational,Landing Page
+1005,keyword_1005,29038,67,Navigational,Product
+1006,keyword_1006,32549,25,Informational,Landing Page
+1007,keyword_1007,37631,81,Transactional,Blog
+1008,keyword_1008,43444,10,Transactional,Blog
+1009,keyword_1009,50729,14,Informational,Product
+1010,keyword_1010,8927,12,Informational,Blog
+1011,keyword_1011,41848,74,Transactional,Product
+1012,keyword_1012,24785,13,Transactional,Blog
+1013,keyword_1013,38126,73,Transactional,Blog
+1014,keyword_1014,43308,19,Transactional,Blog
+1015,keyword_1015,23428,30,Informational,Product
+1016,keyword_1016,54371,55,Informational,Product
+1017,keyword_1017,19698,36,Navigational,Landing Page
+1018,keyword_1018,20258,75,Transactional,Product
+1019,keyword_1019,15754,50,Navigational,Blog
+1020,keyword_1020,44738,22,Informational,Blog
+1021,keyword_1021,1752,18,Informational,Product
+1022,keyword_1022,40264,45,Navigational,Product
+1023,keyword_1023,12673,67,Transactional,Product
+1024,keyword_1024,37941,63,Transactional,Landing Page
+1025,keyword_1025,27198,21,Transactional,Blog
+1026,keyword_1026,54182,87,Transactional,Landing Page
+1027,keyword_1027,59994,23,Navigational,Landing Page
+1028,keyword_1028,16281,43,Navigational,Blog
+1029,keyword_1029,13551,62,Informational,Blog
+1030,keyword_1030,40149,29,Transactional,Product
+1031,keyword_1031,7449,84,Transactional,Product
+1032,keyword_1032,42789,25,Transactional,Landing Page
+1033,keyword_1033,55893,79,Navigational,Product
+1034,keyword_1034,8517,65,Transactional,Product
+1035,keyword_1035,7441,67,Navigational,Blog
+1036,keyword_1036,26434,13,Transactional,Blog
+1037,keyword_1037,23886,13,Transactional,Product
+1038,keyword_1038,10709,29,Informational,Blog
+1039,keyword_1039,18215,19,Transactional,Product
+1040,keyword_1040,29420,33,Transactional,Blog
+1041,keyword_1041,53913,35,Informational,Blog
+1042,keyword_1042,57300,46,Navigational,Blog
+1043,keyword_1043,32203,63,Navigational,Blog
+1044,keyword_1044,42818,30,Transactional,Product
+1045,keyword_1045,54767,83,Navigational,Landing Page
+1046,keyword_1046,5137,47,Transactional,Blog
+1047,keyword_1047,5354,55,Informational,Product
+1048,keyword_1048,52829,13,Informational,Product
+1049,keyword_1049,57382,69,Transactional,Blog
+1050,keyword_1050,43588,66,Informational,Landing Page
+1051,keyword_1051,51832,54,Informational,Blog
+1052,keyword_1052,38160,29,Transactional,Product
+1053,keyword_1053,40311,26,Transactional,Landing Page
+1054,keyword_1054,49789,80,Informational,Product
+1055,keyword_1055,55979,13,Navigational,Blog
+1056,keyword_1056,20356,23,Navigational,Landing Page
+1057,keyword_1057,22333,12,Transactional,Product
+1058,keyword_1058,52484,89,Transactional,Product
+1059,keyword_1059,20463,67,Navigational,Product
+1060,keyword_1060,55623,64,Informational,Blog
+1061,keyword_1061,37432,13,Navigational,Landing Page
+1062,keyword_1062,27669,33,Navigational,Blog
+1063,keyword_1063,8441,43,Navigational,Blog
+1064,keyword_1064,14888,39,Navigational,Blog
+1065,keyword_1065,6069,28,Transactional,Landing Page
+1066,keyword_1066,4800,40,Transactional,Blog
+1067,keyword_1067,39537,69,Informational,Blog
+1068,keyword_1068,37086,69,Informational,Blog
+1069,keyword_1069,12515,28,Informational,Blog
+1070,keyword_1070,45502,58,Informational,Product
+1071,keyword_1071,51558,72,Navigational,Blog
+1072,keyword_1072,6754,31,Transactional,Product
+1073,keyword_1073,17644,33,Transactional,Blog
+1074,keyword_1074,24714,85,Informational,Landing Page
+1075,keyword_1075,40618,39,Informational,Product
+1076,keyword_1076,15683,67,Navigational,Product
+1077,keyword_1077,6738,40,Navigational,Product
+1078,keyword_1078,6590,73,Informational,Product
+1079,keyword_1079,12137,28,Transactional,Landing Page
+1080,keyword_1080,22915,57,Transactional,Blog
+1081,keyword_1081,24571,54,Transactional,Product
+1082,keyword_1082,58743,64,Informational,Landing Page
+1083,keyword_1083,45915,64,Transactional,Product
+1084,keyword_1084,43179,27,Navigational,Blog
+1085,keyword_1085,41740,72,Navigational,Product
+1086,keyword_1086,18771,56,Informational,Landing Page
+1087,keyword_1087,36534,84,Navigational,Blog
+1088,keyword_1088,33934,66,Informational,Landing Page
+1089,keyword_1089,4688,54,Transactional,Blog
+1090,keyword_1090,50323,42,Transactional,Blog
+1091,keyword_1091,10661,26,Transactional,Blog
+1092,keyword_1092,29232,79,Navigational,Product
+1093,keyword_1093,56429,13,Informational,Landing Page
+1094,keyword_1094,11814,29,Transactional,Landing Page
+1095,keyword_1095,24454,56,Informational,Landing Page
+1096,keyword_1096,57608,24,Transactional,Blog
+1097,keyword_1097,22008,79,Navigational,Product
+1098,keyword_1098,22469,56,Navigational,Blog
+1099,keyword_1099,46159,87,Informational,Landing Page
+1100,keyword_1100,38045,84,Navigational,Product
+1101,keyword_1101,37168,18,Navigational,Product
+1102,keyword_1102,23561,25,Informational,Product
+1103,keyword_1103,14216,78,Transactional,Landing Page
+1104,keyword_1104,40249,70,Navigational,Product
+1105,keyword_1105,39644,19,Informational,Product
+1106,keyword_1106,17407,59,Navigational,Blog
+1107,keyword_1107,19277,12,Navigational,Blog
+1108,keyword_1108,28193,86,Navigational,Product
+1109,keyword_1109,52245,79,Navigational,Product
+1110,keyword_1110,43428,60,Informational,Blog
+1111,keyword_1111,26829,28,Informational,Blog
+1112,keyword_1112,47392,51,Informational,Blog
+1113,keyword_1113,16782,44,Navigational,Landing Page
+1114,keyword_1114,24124,55,Navigational,Landing Page
+1115,keyword_1115,23821,35,Navigational,Blog
+1116,keyword_1116,10988,78,Informational,Product
+1117,keyword_1117,23074,73,Navigational,Blog
+1118,keyword_1118,5740,46,Transactional,Landing Page
+1119,keyword_1119,43721,58,Navigational,Product
+1120,keyword_1120,10978,30,Transactional,Landing Page
+1121,keyword_1121,56145,83,Navigational,Product
+1122,keyword_1122,45662,73,Informational,Landing Page
+1123,keyword_1123,19762,14,Navigational,Product
+1124,keyword_1124,53795,79,Transactional,Product
+1125,keyword_1125,53296,13,Transactional,Product
+1126,keyword_1126,4932,48,Navigational,Product
+1127,keyword_1127,30221,44,Transactional,Landing Page
+1128,keyword_1128,14068,10,Transactional,Landing Page
+1129,keyword_1129,59899,33,Informational,Product
+1130,keyword_1130,14678,66,Navigational,Product
+1131,keyword_1131,50928,79,Navigational,Landing Page
+1132,keyword_1132,22695,50,Navigational,Product
+1133,keyword_1133,802,63,Transactional,Product
+1134,keyword_1134,17522,55,Navigational,Product
+1135,keyword_1135,555,69,Navigational,Blog
+1136,keyword_1136,46281,69,Informational,Product
+1137,keyword_1137,9217,66,Informational,Blog
+1138,keyword_1138,29199,40,Informational,Product
+1139,keyword_1139,8650,33,Transactional,Landing Page
+1140,keyword_1140,2625,45,Navigational,Blog
+1141,keyword_1141,44747,39,Informational,Blog
+1142,keyword_1142,49013,33,Informational,Product
+1143,keyword_1143,17248,39,Informational,Product
+1144,keyword_1144,40077,16,Navigational,Blog
+1145,keyword_1145,5121,44,Navigational,Landing Page
+1146,keyword_1146,15534,64,Navigational,Landing Page
+1147,keyword_1147,46891,23,Transactional,Product
+1148,keyword_1148,5626,19,Transactional,Landing Page
+1149,keyword_1149,5622,89,Informational,Landing Page
+1150,keyword_1150,18530,25,Navigational,Product
+1151,keyword_1151,17802,63,Informational,Landing Page
+1152,keyword_1152,19681,86,Navigational,Product
+1153,keyword_1153,56158,79,Navigational,Blog
+1154,keyword_1154,39138,53,Navigational,Product
+1155,keyword_1155,2031,82,Transactional,Blog
+1156,keyword_1156,41440,54,Transactional,Blog
+1157,keyword_1157,52997,65,Navigational,Landing Page
+1158,keyword_1158,40941,66,Informational,Landing Page
+1159,keyword_1159,23833,30,Navigational,Landing Page
+1160,keyword_1160,40150,77,Navigational,Product
+1161,keyword_1161,35174,59,Informational,Landing Page
+1162,keyword_1162,36354,42,Navigational,Blog
+1163,keyword_1163,46771,16,Informational,Landing Page
+1164,keyword_1164,8652,79,Transactional,Landing Page
+1165,keyword_1165,39018,24,Transactional,Product
+1166,keyword_1166,46040,41,Informational,Product
+1167,keyword_1167,10767,84,Transactional,Blog
+1168,keyword_1168,25789,29,Transactional,Product
+1169,keyword_1169,1562,24,Informational,Landing Page
+1170,keyword_1170,51628,57,Transactional,Product
+1171,keyword_1171,50948,80,Navigational,Blog
+1172,keyword_1172,30426,30,Navigational,Landing Page
+1173,keyword_1173,6729,51,Informational,Blog
+1174,keyword_1174,57293,35,Transactional,Product
+1175,keyword_1175,49777,23,Navigational,Product
+1176,keyword_1176,48415,66,Navigational,Blog
+1177,keyword_1177,5132,46,Transactional,Landing Page
+1178,keyword_1178,39556,67,Transactional,Product
+1179,keyword_1179,4096,30,Navigational,Product
+1180,keyword_1180,44743,78,Navigational,Landing Page
+1181,keyword_1181,6668,12,Informational,Product
+1182,keyword_1182,43063,46,Informational,Blog
+1183,keyword_1183,8061,58,Navigational,Product
+1184,keyword_1184,8758,28,Informational,Product
+1185,keyword_1185,17116,21,Navigational,Landing Page
+1186,keyword_1186,59013,70,Navigational,Blog
+1187,keyword_1187,27234,50,Informational,Landing Page
+1188,keyword_1188,6871,42,Informational,Product
+1189,keyword_1189,53858,59,Transactional,Product
+1190,keyword_1190,26569,77,Transactional,Landing Page
+1191,keyword_1191,14869,80,Transactional,Landing Page
+1192,keyword_1192,13410,42,Navigational,Landing Page
+1193,keyword_1193,8443,33,Informational,Blog
+1194,keyword_1194,12699,70,Navigational,Product
+1195,keyword_1195,16228,70,Informational,Landing Page
+1196,keyword_1196,23775,37,Navigational,Product
+1197,keyword_1197,7238,67,Transactional,Blog
+1198,keyword_1198,16413,52,Transactional,Blog
+1199,keyword_1199,35740,50,Transactional,Blog
+1200,keyword_1200,19623,48,Navigational,Blog
+1201,keyword_1201,55053,58,Informational,Product
+1202,keyword_1202,48947,26,Informational,Blog
+1203,keyword_1203,35029,79,Transactional,Blog
+1204,keyword_1204,10667,79,Transactional,Landing Page
+1205,keyword_1205,11054,74,Transactional,Blog
+1206,keyword_1206,17760,83,Transactional,Landing Page
+1207,keyword_1207,47545,14,Informational,Blog
+1208,keyword_1208,4312,11,Navigational,Blog
+1209,keyword_1209,28524,31,Navigational,Landing Page
+1210,keyword_1210,59156,66,Navigational,Blog
+1211,keyword_1211,51112,75,Navigational,Product
+1212,keyword_1212,27785,83,Transactional,Product
+1213,keyword_1213,27400,25,Transactional,Blog
+1214,keyword_1214,51385,60,Transactional,Product
+1215,keyword_1215,2105,48,Navigational,Landing Page
+1216,keyword_1216,6122,85,Transactional,Blog
+1217,keyword_1217,7267,49,Transactional,Blog
+1218,keyword_1218,27639,47,Informational,Landing Page
+1219,keyword_1219,12113,69,Informational,Landing Page
+1220,keyword_1220,56638,68,Transactional,Landing Page
+1221,keyword_1221,53169,19,Informational,Blog
+1222,keyword_1222,11089,73,Informational,Landing Page
+1223,keyword_1223,14418,72,Transactional,Landing Page
+1224,keyword_1224,20619,58,Transactional,Product
+1225,keyword_1225,27946,73,Transactional,Product
+1226,keyword_1226,59004,41,Transactional,Blog
+1227,keyword_1227,13546,16,Navigational,Product
+1228,keyword_1228,25318,30,Navigational,Product
+1229,keyword_1229,35858,29,Transactional,Landing Page
+1230,keyword_1230,50715,35,Informational,Landing Page
+1231,keyword_1231,4824,77,Transactional,Product
+1232,keyword_1232,11287,24,Transactional,Product
+1233,keyword_1233,9611,88,Informational,Product
+1234,keyword_1234,38610,23,Navigational,Blog
+1235,keyword_1235,16889,36,Transactional,Blog
+1236,keyword_1236,57141,49,Transactional,Blog
+1237,keyword_1237,41927,67,Navigational,Product
+1238,keyword_1238,14543,37,Navigational,Product
+1239,keyword_1239,29246,35,Informational,Blog
+1240,keyword_1240,57847,72,Navigational,Blog
+1241,keyword_1241,22850,75,Navigational,Product
+1242,keyword_1242,42105,34,Navigational,Landing Page
+1243,keyword_1243,617,12,Informational,Blog
+1244,keyword_1244,47185,81,Navigational,Product
+1245,keyword_1245,19435,53,Navigational,Product
+1246,keyword_1246,47577,51,Informational,Landing Page
+1247,keyword_1247,13734,15,Navigational,Product
+1248,keyword_1248,38828,48,Navigational,Product
+1249,keyword_1249,53941,61,Informational,Blog
+1250,keyword_1250,1346,32,Transactional,Blog
+1251,keyword_1251,11454,59,Informational,Landing Page
+1252,keyword_1252,14203,52,Navigational,Landing Page
+1253,keyword_1253,48653,28,Navigational,Product
+1254,keyword_1254,47014,78,Navigational,Blog
+1255,keyword_1255,23200,60,Informational,Landing Page
+1256,keyword_1256,32543,20,Navigational,Landing Page
+1257,keyword_1257,6969,21,Navigational,Landing Page
+1258,keyword_1258,30605,83,Informational,Product
+1259,keyword_1259,42601,17,Transactional,Blog
+1260,keyword_1260,26886,33,Transactional,Landing Page
+1261,keyword_1261,58567,50,Navigational,Blog
+1262,keyword_1262,49876,45,Informational,Landing Page
+1263,keyword_1263,46087,81,Navigational,Landing Page
+1264,keyword_1264,37476,64,Informational,Blog
+1265,keyword_1265,39551,18,Informational,Blog
+1266,keyword_1266,2548,56,Transactional,Blog
+1267,keyword_1267,39501,24,Transactional,Product
+1268,keyword_1268,13441,57,Informational,Landing Page
+1269,keyword_1269,45875,51,Navigational,Product
+1270,keyword_1270,43033,69,Transactional,Blog
+1271,keyword_1271,2328,79,Navigational,Landing Page
+1272,keyword_1272,2417,21,Transactional,Product
+1273,keyword_1273,21118,11,Transactional,Landing Page
+1274,keyword_1274,32754,16,Navigational,Product
+1275,keyword_1275,40256,89,Transactional,Blog
+1276,keyword_1276,51678,12,Transactional,Product
+1277,keyword_1277,47862,12,Navigational,Landing Page
+1278,keyword_1278,20628,36,Transactional,Landing Page
+1279,keyword_1279,58745,49,Transactional,Landing Page
+1280,keyword_1280,46245,42,Transactional,Landing Page
+1281,keyword_1281,59883,10,Navigational,Blog
+1282,keyword_1282,509,17,Informational,Product
+1283,keyword_1283,17144,41,Navigational,Blog
+1284,keyword_1284,22922,57,Informational,Blog
+1285,keyword_1285,10365,13,Transactional,Blog
+1286,keyword_1286,2719,79,Informational,Landing Page
+1287,keyword_1287,40309,28,Navigational,Landing Page
+1288,keyword_1288,51712,41,Navigational,Landing Page
+1289,keyword_1289,5787,18,Transactional,Product
+1290,keyword_1290,34887,21,Informational,Landing Page
+1291,keyword_1291,9012,20,Transactional,Product
+1292,keyword_1292,1842,55,Transactional,Landing Page
+1293,keyword_1293,43836,25,Navigational,Landing Page
+1294,keyword_1294,19716,10,Informational,Blog
+1295,keyword_1295,52476,72,Informational,Blog
+1296,keyword_1296,51646,30,Informational,Blog
+1297,keyword_1297,28034,39,Informational,Product
+1298,keyword_1298,14731,22,Transactional,Product
+1299,keyword_1299,32793,43,Transactional,Landing Page
+1300,keyword_1300,27114,13,Navigational,Product
+1301,keyword_1301,36758,37,Transactional,Landing Page
+1302,keyword_1302,28753,68,Transactional,Product
+1303,keyword_1303,42578,36,Navigational,Product
+1304,keyword_1304,41252,78,Navigational,Product
+1305,keyword_1305,18488,34,Navigational,Blog
+1306,keyword_1306,31537,12,Transactional,Product
+1307,keyword_1307,12719,77,Transactional,Blog
+1308,keyword_1308,735,34,Navigational,Blog
+1309,keyword_1309,43429,29,Navigational,Product
+1310,keyword_1310,2408,43,Navigational,Landing Page
+1311,keyword_1311,9067,35,Transactional,Landing Page
+1312,keyword_1312,36798,14,Transactional,Landing Page
+1313,keyword_1313,5756,70,Informational,Product
+1314,keyword_1314,19519,18,Transactional,Landing Page
+1315,keyword_1315,8662,59,Transactional,Blog
+1316,keyword_1316,59414,15,Transactional,Landing Page
+1317,keyword_1317,52212,69,Navigational,Product
+1318,keyword_1318,5915,53,Transactional,Landing Page
+1319,keyword_1319,36659,20,Navigational,Blog
+1320,keyword_1320,44425,75,Informational,Product
+1321,keyword_1321,6451,56,Informational,Landing Page
+1322,keyword_1322,22352,82,Navigational,Product
+1323,keyword_1323,8507,12,Navigational,Product
+1324,keyword_1324,42332,85,Navigational,Product
+1325,keyword_1325,59096,39,Transactional,Landing Page
+1326,keyword_1326,56065,30,Informational,Product
+1327,keyword_1327,31023,37,Navigational,Landing Page
+1328,keyword_1328,23825,71,Transactional,Blog
+1329,keyword_1329,59158,42,Informational,Landing Page
+1330,keyword_1330,21704,44,Transactional,Blog
+1331,keyword_1331,16024,61,Informational,Landing Page
+1332,keyword_1332,19782,43,Transactional,Product
+1333,keyword_1333,24430,50,Informational,Landing Page
+1334,keyword_1334,577,60,Informational,Product
+1335,keyword_1335,40845,56,Transactional,Blog
+1336,keyword_1336,21111,67,Navigational,Landing Page
+1337,keyword_1337,17484,84,Informational,Product
+1338,keyword_1338,14560,66,Navigational,Blog
+1339,keyword_1339,17949,32,Transactional,Blog
+1340,keyword_1340,19020,57,Navigational,Landing Page
+1341,keyword_1341,43803,31,Navigational,Blog
+1342,keyword_1342,59707,26,Navigational,Product
+1343,keyword_1343,10010,78,Navigational,Blog
+1344,keyword_1344,29787,20,Navigational,Blog
+1345,keyword_1345,28673,24,Informational,Product
+1346,keyword_1346,40211,44,Informational,Blog
+1347,keyword_1347,12454,42,Informational,Blog
+1348,keyword_1348,8304,25,Transactional,Blog
+1349,keyword_1349,7065,43,Navigational,Blog
+1350,keyword_1350,6484,75,Informational,Product
+1351,keyword_1351,22026,49,Transactional,Blog
+1352,keyword_1352,37938,37,Informational,Product
+1353,keyword_1353,19074,56,Informational,Blog
+1354,keyword_1354,9684,48,Navigational,Blog
+1355,keyword_1355,19596,79,Transactional,Blog
+1356,keyword_1356,2692,82,Navigational,Blog
+1357,keyword_1357,34516,29,Navigational,Product
+1358,keyword_1358,11746,10,Informational,Product
+1359,keyword_1359,46058,81,Navigational,Product
+1360,keyword_1360,53685,72,Transactional,Landing Page
+1361,keyword_1361,18881,76,Navigational,Blog
+1362,keyword_1362,36955,13,Navigational,Blog
+1363,keyword_1363,27227,67,Navigational,Product
+1364,keyword_1364,4518,34,Informational,Landing Page
+1365,keyword_1365,11802,56,Transactional,Blog
+1366,keyword_1366,2470,47,Informational,Product
+1367,keyword_1367,41657,24,Informational,Blog
+1368,keyword_1368,55417,72,Informational,Blog
+1369,keyword_1369,27702,30,Informational,Product
+1370,keyword_1370,31610,66,Informational,Product
+1371,keyword_1371,18086,62,Transactional,Blog
+1372,keyword_1372,25019,55,Navigational,Blog
+1373,keyword_1373,31773,23,Informational,Product
+1374,keyword_1374,22451,85,Informational,Blog
+1375,keyword_1375,57319,26,Transactional,Blog
+1376,keyword_1376,15874,48,Transactional,Product
+1377,keyword_1377,55394,18,Navigational,Blog
+1378,keyword_1378,6288,86,Transactional,Blog
+1379,keyword_1379,5908,88,Navigational,Landing Page
+1380,keyword_1380,59879,15,Informational,Product
+1381,keyword_1381,25553,32,Informational,Landing Page
+1382,keyword_1382,9946,68,Navigational,Landing Page
+1383,keyword_1383,1422,55,Transactional,Landing Page
+1384,keyword_1384,33687,47,Navigational,Blog
+1385,keyword_1385,51856,23,Transactional,Blog
+1386,keyword_1386,11289,81,Informational,Landing Page
+1387,keyword_1387,32684,71,Transactional,Landing Page
+1388,keyword_1388,1620,44,Navigational,Landing Page
+1389,keyword_1389,44528,28,Navigational,Blog
+1390,keyword_1390,32654,39,Informational,Landing Page
+1391,keyword_1391,17834,87,Transactional,Landing Page
+1392,keyword_1392,2836,34,Transactional,Product
+1393,keyword_1393,38641,49,Transactional,Product
+1394,keyword_1394,2743,23,Informational,Blog
+1395,keyword_1395,19529,35,Transactional,Product
+1396,keyword_1396,59701,31,Navigational,Product
+1397,keyword_1397,32765,57,Transactional,Product
+1398,keyword_1398,37880,60,Informational,Blog
+1399,keyword_1399,47214,12,Transactional,Product
+1400,keyword_1400,51517,51,Transactional,Blog
+1401,keyword_1401,44372,28,Navigational,Landing Page
+1402,keyword_1402,46697,82,Transactional,Product
+1403,keyword_1403,55680,37,Navigational,Blog
+1404,keyword_1404,24210,54,Navigational,Product
+1405,keyword_1405,29986,80,Informational,Landing Page
+1406,keyword_1406,6871,87,Navigational,Blog
+1407,keyword_1407,6859,72,Navigational,Blog
+1408,keyword_1408,41131,82,Informational,Blog
+1409,keyword_1409,36496,28,Navigational,Landing Page
+1410,keyword_1410,20603,56,Informational,Landing Page
+1411,keyword_1411,14882,23,Transactional,Landing Page
+1412,keyword_1412,19255,47,Informational,Blog
+1413,keyword_1413,36159,62,Navigational,Landing Page
+1414,keyword_1414,4256,70,Informational,Product
+1415,keyword_1415,21109,45,Navigational,Landing Page
+1416,keyword_1416,49038,49,Transactional,Blog
+1417,keyword_1417,16978,39,Informational,Product
+1418,keyword_1418,35942,18,Transactional,Landing Page
+1419,keyword_1419,40166,73,Navigational,Product
+1420,keyword_1420,10647,42,Navigational,Product
+1421,keyword_1421,34061,61,Transactional,Blog
+1422,keyword_1422,59678,23,Informational,Product
+1423,keyword_1423,35384,84,Informational,Product
+1424,keyword_1424,6279,62,Navigational,Blog
+1425,keyword_1425,12798,68,Transactional,Blog
+1426,keyword_1426,14653,87,Transactional,Blog
+1427,keyword_1427,44379,50,Informational,Product
+1428,keyword_1428,11289,77,Informational,Product
+1429,keyword_1429,44665,77,Informational,Product
+1430,keyword_1430,13499,17,Transactional,Blog
+1431,keyword_1431,55818,11,Informational,Landing Page
+1432,keyword_1432,1314,50,Informational,Product
+1433,keyword_1433,49997,64,Navigational,Landing Page
+1434,keyword_1434,11041,25,Informational,Blog
+1435,keyword_1435,25438,71,Informational,Product
+1436,keyword_1436,2943,57,Transactional,Landing Page
+1437,keyword_1437,10957,39,Transactional,Product
+1438,keyword_1438,10880,21,Navigational,Product
+1439,keyword_1439,8283,44,Informational,Product
+1440,keyword_1440,44741,20,Navigational,Landing Page
+1441,keyword_1441,17868,73,Transactional,Blog
+1442,keyword_1442,15828,59,Navigational,Product
+1443,keyword_1443,57442,30,Transactional,Blog
+1444,keyword_1444,26715,78,Navigational,Blog
+1445,keyword_1445,34095,57,Navigational,Landing Page
+1446,keyword_1446,27806,29,Informational,Landing Page
+1447,keyword_1447,20415,76,Navigational,Blog
+1448,keyword_1448,40415,53,Informational,Product
+1449,keyword_1449,37719,42,Informational,Landing Page
+1450,keyword_1450,15843,82,Informational,Product
+1451,keyword_1451,46903,70,Informational,Product
+1452,keyword_1452,53528,18,Navigational,Product
+1453,keyword_1453,39227,77,Transactional,Blog
+1454,keyword_1454,626,44,Transactional,Product
+1455,keyword_1455,52829,74,Transactional,Blog
+1456,keyword_1456,28132,17,Navigational,Blog
+1457,keyword_1457,42063,54,Informational,Product
+1458,keyword_1458,44909,56,Transactional,Product
+1459,keyword_1459,55676,49,Navigational,Product
+1460,keyword_1460,54761,85,Informational,Product
+1461,keyword_1461,21030,63,Transactional,Blog
+1462,keyword_1462,40464,85,Informational,Product
+1463,keyword_1463,44827,55,Transactional,Product
+1464,keyword_1464,3868,56,Transactional,Blog
+1465,keyword_1465,4297,24,Transactional,Landing Page
+1466,keyword_1466,48382,28,Informational,Landing Page
+1467,keyword_1467,14218,35,Navigational,Blog
+1468,keyword_1468,35060,61,Informational,Landing Page
+1469,keyword_1469,11553,31,Transactional,Blog
+1470,keyword_1470,22616,30,Informational,Product
+1471,keyword_1471,36744,60,Navigational,Product
+1472,keyword_1472,36685,47,Informational,Landing Page
+1473,keyword_1473,2145,29,Navigational,Product
+1474,keyword_1474,48023,38,Navigational,Landing Page
+1475,keyword_1475,59049,60,Informational,Landing Page
+1476,keyword_1476,52682,13,Transactional,Product
+1477,keyword_1477,19756,64,Navigational,Product
+1478,keyword_1478,36340,80,Informational,Landing Page
+1479,keyword_1479,35122,37,Navigational,Product
+1480,keyword_1480,53673,13,Transactional,Blog
+1481,keyword_1481,37930,31,Informational,Product
+1482,keyword_1482,39782,85,Informational,Product
+1483,keyword_1483,54683,54,Informational,Blog
+1484,keyword_1484,3208,76,Transactional,Product
+1485,keyword_1485,12194,75,Navigational,Product
+1486,keyword_1486,56764,43,Informational,Landing Page
+1487,keyword_1487,10024,64,Navigational,Product
+1488,keyword_1488,32380,10,Navigational,Product
+1489,keyword_1489,58045,81,Transactional,Blog
+1490,keyword_1490,53159,47,Informational,Landing Page
+1491,keyword_1491,39724,15,Navigational,Landing Page
+1492,keyword_1492,37480,34,Informational,Landing Page
+1493,keyword_1493,32909,26,Informational,Product
+1494,keyword_1494,13724,70,Transactional,Landing Page
+1495,keyword_1495,41238,21,Informational,Blog
+1496,keyword_1496,25650,15,Informational,Landing Page
+1497,keyword_1497,50188,36,Navigational,Blog
+1498,keyword_1498,34893,17,Transactional,Landing Page
+1499,keyword_1499,43582,74,Informational,Landing Page
+1500,keyword_1500,8473,66,Navigational,Blog
+1501,keyword_1501,9077,49,Transactional,Landing Page
+1502,keyword_1502,8570,23,Transactional,Landing Page
+1503,keyword_1503,9166,44,Navigational,Landing Page
+1504,keyword_1504,58261,57,Navigational,Product
+1505,keyword_1505,56142,65,Navigational,Blog
+1506,keyword_1506,36868,58,Navigational,Landing Page
+1507,keyword_1507,7283,22,Navigational,Blog
+1508,keyword_1508,46494,70,Informational,Blog
+1509,keyword_1509,42414,58,Informational,Blog
+1510,keyword_1510,5471,55,Transactional,Landing Page
+1511,keyword_1511,13990,71,Informational,Landing Page
+1512,keyword_1512,50857,17,Informational,Blog
+1513,keyword_1513,46219,52,Informational,Product
+1514,keyword_1514,45580,29,Navigational,Blog
+1515,keyword_1515,2490,48,Transactional,Product
+1516,keyword_1516,5799,58,Transactional,Blog
+1517,keyword_1517,46265,73,Transactional,Blog
+1518,keyword_1518,20456,71,Transactional,Blog
+1519,keyword_1519,22859,63,Informational,Landing Page
+1520,keyword_1520,46740,18,Informational,Product
+1521,keyword_1521,55972,46,Navigational,Product
+1522,keyword_1522,37648,58,Transactional,Blog
+1523,keyword_1523,29234,50,Informational,Landing Page
+1524,keyword_1524,5257,26,Informational,Landing Page
+1525,keyword_1525,19597,30,Navigational,Product
+1526,keyword_1526,10895,60,Navigational,Landing Page
+1527,keyword_1527,16741,68,Navigational,Product
+1528,keyword_1528,38856,48,Informational,Product
+1529,keyword_1529,28196,64,Informational,Product
+1530,keyword_1530,50618,50,Navigational,Landing Page
+1531,keyword_1531,5444,48,Transactional,Product
+1532,keyword_1532,46663,22,Navigational,Product
+1533,keyword_1533,20316,73,Navigational,Blog
+1534,keyword_1534,50340,20,Navigational,Product
+1535,keyword_1535,37511,28,Navigational,Product
+1536,keyword_1536,53353,20,Informational,Blog
+1537,keyword_1537,25417,86,Transactional,Blog
+1538,keyword_1538,31695,55,Navigational,Landing Page
+1539,keyword_1539,22066,54,Transactional,Product
+1540,keyword_1540,10416,10,Transactional,Landing Page
+1541,keyword_1541,56356,49,Transactional,Landing Page
+1542,keyword_1542,21306,28,Navigational,Blog
+1543,keyword_1543,10484,85,Informational,Landing Page
+1544,keyword_1544,2259,81,Navigational,Product
+1545,keyword_1545,42449,81,Transactional,Blog
+1546,keyword_1546,27338,70,Transactional,Product
+1547,keyword_1547,2982,21,Informational,Product
+1548,keyword_1548,24942,70,Navigational,Blog
+1549,keyword_1549,34219,42,Transactional,Product
+1550,keyword_1550,58566,54,Informational,Blog
+1551,keyword_1551,28465,78,Transactional,Product
+1552,keyword_1552,2579,17,Informational,Blog
+1553,keyword_1553,3217,34,Informational,Landing Page
+1554,keyword_1554,28452,55,Navigational,Product
+1555,keyword_1555,21408,39,Transactional,Blog
+1556,keyword_1556,42960,56,Navigational,Product
+1557,keyword_1557,25361,58,Transactional,Product
+1558,keyword_1558,7811,56,Navigational,Product
+1559,keyword_1559,28571,27,Transactional,Blog
+1560,keyword_1560,24070,75,Navigational,Landing Page
+1561,keyword_1561,18949,77,Informational,Landing Page
+1562,keyword_1562,34036,42,Transactional,Landing Page
+1563,keyword_1563,38758,45,Transactional,Blog
+1564,keyword_1564,48802,28,Informational,Landing Page
+1565,keyword_1565,29365,37,Navigational,Blog
+1566,keyword_1566,7145,49,Transactional,Product
+1567,keyword_1567,54735,85,Transactional,Product
+1568,keyword_1568,38500,24,Navigational,Landing Page
+1569,keyword_1569,27237,50,Informational,Blog
+1570,keyword_1570,11985,48,Navigational,Product
+1571,keyword_1571,39065,11,Navigational,Blog
+1572,keyword_1572,26022,72,Navigational,Blog
+1573,keyword_1573,54578,38,Transactional,Product
+1574,keyword_1574,55668,83,Informational,Blog
+1575,keyword_1575,52987,75,Informational,Product
+1576,keyword_1576,12842,60,Navigational,Product
+1577,keyword_1577,41306,84,Transactional,Product
+1578,keyword_1578,49270,86,Navigational,Blog
+1579,keyword_1579,13587,19,Transactional,Product
+1580,keyword_1580,38141,23,Transactional,Blog
+1581,keyword_1581,34749,60,Transactional,Product
+1582,keyword_1582,10593,82,Transactional,Product
+1583,keyword_1583,55957,48,Informational,Landing Page
+1584,keyword_1584,53103,37,Transactional,Landing Page
+1585,keyword_1585,47690,12,Transactional,Landing Page
+1586,keyword_1586,16938,79,Navigational,Blog
+1587,keyword_1587,40911,36,Navigational,Blog
+1588,keyword_1588,26899,11,Informational,Product
+1589,keyword_1589,20346,47,Navigational,Product
+1590,keyword_1590,16208,12,Transactional,Product
+1591,keyword_1591,44539,25,Navigational,Product
+1592,keyword_1592,50484,49,Informational,Blog
+1593,keyword_1593,45868,11,Navigational,Product
+1594,keyword_1594,11498,50,Navigational,Product
+1595,keyword_1595,55606,21,Informational,Landing Page
+1596,keyword_1596,47563,44,Informational,Product
+1597,keyword_1597,31178,74,Transactional,Product
+1598,keyword_1598,11182,64,Navigational,Product
+1599,keyword_1599,49648,54,Transactional,Blog
+1600,keyword_1600,9019,88,Navigational,Landing Page
+1601,keyword_1601,56873,71,Navigational,Product
+1602,keyword_1602,31980,58,Transactional,Product
+1603,keyword_1603,20194,34,Navigational,Landing Page
+1604,keyword_1604,3800,32,Navigational,Product
+1605,keyword_1605,7222,33,Navigational,Blog
+1606,keyword_1606,40486,47,Informational,Product
+1607,keyword_1607,24660,37,Transactional,Blog
+1608,keyword_1608,20559,30,Informational,Blog
+1609,keyword_1609,36322,63,Transactional,Product
+1610,keyword_1610,14075,27,Transactional,Landing Page
+1611,keyword_1611,8470,45,Navigational,Blog
+1612,keyword_1612,35411,54,Transactional,Landing Page
+1613,keyword_1613,22091,82,Informational,Product
+1614,keyword_1614,32321,62,Informational,Blog
+1615,keyword_1615,10003,39,Informational,Product
+1616,keyword_1616,48417,69,Transactional,Landing Page
+1617,keyword_1617,19422,41,Informational,Product
+1618,keyword_1618,12675,76,Transactional,Product
+1619,keyword_1619,54199,76,Informational,Blog
+1620,keyword_1620,55271,37,Informational,Product
+1621,keyword_1621,41624,53,Transactional,Product
+1622,keyword_1622,56264,88,Informational,Product
+1623,keyword_1623,21889,50,Navigational,Blog
+1624,keyword_1624,48338,72,Transactional,Landing Page
+1625,keyword_1625,1322,32,Transactional,Landing Page
+1626,keyword_1626,17827,84,Transactional,Product
+1627,keyword_1627,47557,57,Navigational,Blog
+1628,keyword_1628,6650,41,Transactional,Product
+1629,keyword_1629,4925,66,Informational,Landing Page
+1630,keyword_1630,58618,42,Informational,Blog
+1631,keyword_1631,16532,33,Informational,Landing Page
+1632,keyword_1632,2698,48,Transactional,Landing Page
+1633,keyword_1633,53894,43,Informational,Blog
+1634,keyword_1634,20579,65,Transactional,Blog
+1635,keyword_1635,36720,37,Informational,Product
+1636,keyword_1636,42374,46,Navigational,Product
+1637,keyword_1637,14359,16,Navigational,Landing Page
+1638,keyword_1638,50960,77,Navigational,Blog
+1639,keyword_1639,31919,46,Navigational,Blog
+1640,keyword_1640,53829,65,Transactional,Product
+1641,keyword_1641,9205,74,Informational,Landing Page
+1642,keyword_1642,43380,74,Navigational,Landing Page
+1643,keyword_1643,23736,56,Transactional,Product
+1644,keyword_1644,22919,29,Navigational,Blog
+1645,keyword_1645,20478,28,Navigational,Product
+1646,keyword_1646,38109,38,Transactional,Product
+1647,keyword_1647,15858,83,Transactional,Product
+1648,keyword_1648,34677,69,Informational,Product
+1649,keyword_1649,29878,27,Informational,Blog
+1650,keyword_1650,37834,44,Navigational,Product
+1651,keyword_1651,11882,52,Navigational,Blog
+1652,keyword_1652,54143,20,Informational,Product
+1653,keyword_1653,51207,58,Informational,Landing Page
+1654,keyword_1654,15096,47,Transactional,Blog
+1655,keyword_1655,34072,73,Informational,Landing Page
+1656,keyword_1656,13721,78,Informational,Product
+1657,keyword_1657,1779,17,Navigational,Product
+1658,keyword_1658,46460,43,Informational,Product
+1659,keyword_1659,7583,57,Navigational,Blog
+1660,keyword_1660,55638,65,Informational,Landing Page
+1661,keyword_1661,55271,85,Transactional,Blog
+1662,keyword_1662,44361,74,Informational,Blog
+1663,keyword_1663,18271,40,Informational,Product
+1664,keyword_1664,30475,13,Informational,Landing Page
+1665,keyword_1665,46148,59,Navigational,Product
+1666,keyword_1666,48785,78,Transactional,Blog
+1667,keyword_1667,19563,39,Informational,Product
+1668,keyword_1668,2606,68,Navigational,Landing Page
+1669,keyword_1669,25057,76,Transactional,Product
+1670,keyword_1670,49354,84,Navigational,Landing Page
+1671,keyword_1671,21107,54,Navigational,Landing Page
+1672,keyword_1672,38099,13,Transactional,Product
+1673,keyword_1673,52420,35,Informational,Blog
+1674,keyword_1674,29029,36,Navigational,Product
+1675,keyword_1675,36454,55,Navigational,Blog
+1676,keyword_1676,28356,73,Informational,Blog
+1677,keyword_1677,3073,60,Informational,Product
+1678,keyword_1678,13308,59,Transactional,Blog
+1679,keyword_1679,35867,15,Transactional,Blog
+1680,keyword_1680,37301,68,Transactional,Product
+1681,keyword_1681,41696,24,Informational,Product
+1682,keyword_1682,34572,39,Navigational,Product
+1683,keyword_1683,24252,51,Navigational,Blog
+1684,keyword_1684,55529,46,Transactional,Landing Page
+1685,keyword_1685,18185,51,Informational,Blog
+1686,keyword_1686,52193,44,Navigational,Landing Page
+1687,keyword_1687,51703,15,Transactional,Product
+1688,keyword_1688,56461,77,Navigational,Landing Page
+1689,keyword_1689,41901,27,Navigational,Product
+1690,keyword_1690,59920,82,Informational,Product
+1691,keyword_1691,11872,38,Informational,Landing Page
+1692,keyword_1692,9496,86,Navigational,Product
+1693,keyword_1693,16958,68,Transactional,Landing Page
+1694,keyword_1694,56633,56,Informational,Product
+1695,keyword_1695,32389,26,Navigational,Blog
+1696,keyword_1696,27165,31,Informational,Blog
+1697,keyword_1697,38743,77,Informational,Product
+1698,keyword_1698,57884,78,Informational,Product
+1699,keyword_1699,32153,46,Navigational,Landing Page
+1700,keyword_1700,27157,58,Transactional,Blog
+1701,keyword_1701,40452,22,Transactional,Landing Page
+1702,keyword_1702,22680,43,Transactional,Product
+1703,keyword_1703,32396,62,Informational,Product
+1704,keyword_1704,56793,60,Navigational,Landing Page
+1705,keyword_1705,13375,12,Informational,Product
+1706,keyword_1706,2122,51,Transactional,Blog
+1707,keyword_1707,49256,41,Transactional,Landing Page
+1708,keyword_1708,41309,60,Navigational,Blog
+1709,keyword_1709,17225,55,Informational,Blog
+1710,keyword_1710,51726,30,Transactional,Blog
+1711,keyword_1711,41260,53,Navigational,Landing Page
+1712,keyword_1712,16146,20,Informational,Product
+1713,keyword_1713,17529,77,Informational,Blog
+1714,keyword_1714,29902,10,Transactional,Blog
+1715,keyword_1715,4763,72,Transactional,Blog
+1716,keyword_1716,58453,33,Informational,Product
+1717,keyword_1717,31487,22,Informational,Product
+1718,keyword_1718,47328,20,Transactional,Landing Page
+1719,keyword_1719,55788,60,Informational,Product
+1720,keyword_1720,48424,26,Transactional,Landing Page
+1721,keyword_1721,9146,33,Informational,Landing Page
+1722,keyword_1722,28029,28,Transactional,Landing Page
+1723,keyword_1723,59552,46,Navigational,Landing Page
+1724,keyword_1724,12164,17,Transactional,Landing Page
+1725,keyword_1725,36237,37,Transactional,Blog
+1726,keyword_1726,36296,14,Navigational,Product
+1727,keyword_1727,24527,26,Informational,Blog
+1728,keyword_1728,29873,45,Navigational,Landing Page
+1729,keyword_1729,52333,28,Transactional,Product
+1730,keyword_1730,36897,73,Informational,Blog
+1731,keyword_1731,21109,20,Navigational,Blog
+1732,keyword_1732,36335,63,Informational,Landing Page
+1733,keyword_1733,39209,54,Informational,Blog
+1734,keyword_1734,51038,56,Navigational,Blog
+1735,keyword_1735,19750,21,Informational,Blog
+1736,keyword_1736,21672,30,Navigational,Blog
+1737,keyword_1737,12055,20,Transactional,Blog
+1738,keyword_1738,22374,14,Informational,Landing Page
+1739,keyword_1739,13581,65,Transactional,Landing Page
+1740,keyword_1740,53776,29,Transactional,Blog
+1741,keyword_1741,57992,50,Informational,Landing Page
+1742,keyword_1742,53502,55,Navigational,Landing Page
+1743,keyword_1743,55067,21,Informational,Product
+1744,keyword_1744,59902,79,Transactional,Blog
+1745,keyword_1745,24563,26,Transactional,Landing Page
+1746,keyword_1746,7319,28,Navigational,Landing Page
+1747,keyword_1747,26212,35,Informational,Blog
+1748,keyword_1748,25262,57,Transactional,Product
+1749,keyword_1749,11546,61,Transactional,Blog
+1750,keyword_1750,31963,79,Transactional,Product
+1751,keyword_1751,59094,64,Navigational,Blog
+1752,keyword_1752,50985,84,Transactional,Blog
+1753,keyword_1753,29269,42,Transactional,Blog
+1754,keyword_1754,53802,71,Informational,Blog
+1755,keyword_1755,23650,32,Informational,Product
+1756,keyword_1756,3211,24,Transactional,Product
+1757,keyword_1757,5353,36,Transactional,Landing Page
+1758,keyword_1758,29577,84,Informational,Blog
+1759,keyword_1759,55864,73,Navigational,Product
+1760,keyword_1760,24363,60,Navigational,Product
+1761,keyword_1761,22292,62,Navigational,Product
+1762,keyword_1762,59629,87,Navigational,Blog
+1763,keyword_1763,40983,60,Navigational,Landing Page
+1764,keyword_1764,9442,56,Navigational,Product
+1765,keyword_1765,48775,13,Navigational,Blog
+1766,keyword_1766,49094,16,Navigational,Product
+1767,keyword_1767,2262,44,Informational,Product
+1768,keyword_1768,32487,57,Navigational,Landing Page
+1769,keyword_1769,16350,82,Navigational,Product
+1770,keyword_1770,12612,81,Navigational,Product
+1771,keyword_1771,56753,54,Transactional,Blog
+1772,keyword_1772,24558,81,Informational,Blog
+1773,keyword_1773,45920,28,Informational,Landing Page
+1774,keyword_1774,39390,72,Informational,Blog
+1775,keyword_1775,981,47,Navigational,Blog
+1776,keyword_1776,47804,76,Navigational,Landing Page
+1777,keyword_1777,33421,68,Transactional,Product
+1778,keyword_1778,40885,78,Informational,Landing Page
+1779,keyword_1779,2024,22,Navigational,Blog
+1780,keyword_1780,35388,56,Informational,Landing Page
+1781,keyword_1781,15548,70,Transactional,Product
+1782,keyword_1782,35611,40,Transactional,Landing Page
+1783,keyword_1783,38404,89,Transactional,Blog
+1784,keyword_1784,55412,31,Informational,Blog
+1785,keyword_1785,34508,52,Navigational,Landing Page
+1786,keyword_1786,560,76,Navigational,Product
+1787,keyword_1787,9630,63,Transactional,Landing Page
+1788,keyword_1788,18523,19,Navigational,Product
+1789,keyword_1789,55837,51,Transactional,Product
+1790,keyword_1790,45580,73,Informational,Landing Page
+1791,keyword_1791,13850,30,Transactional,Product
+1792,keyword_1792,24854,89,Informational,Blog
+1793,keyword_1793,45686,85,Transactional,Landing Page
+1794,keyword_1794,28645,75,Navigational,Product
+1795,keyword_1795,34520,50,Navigational,Blog
+1796,keyword_1796,21087,33,Transactional,Landing Page
+1797,keyword_1797,41631,44,Navigational,Blog
+1798,keyword_1798,10150,65,Navigational,Blog
+1799,keyword_1799,20433,39,Navigational,Blog
+1800,keyword_1800,21081,66,Informational,Product
+1801,keyword_1801,23893,56,Navigational,Landing Page
+1802,keyword_1802,23551,44,Informational,Landing Page
+1803,keyword_1803,51974,28,Transactional,Product
+1804,keyword_1804,26712,17,Navigational,Landing Page
+1805,keyword_1805,49582,35,Navigational,Blog
+1806,keyword_1806,4590,80,Navigational,Landing Page
+1807,keyword_1807,7460,39,Transactional,Product
+1808,keyword_1808,36272,16,Informational,Blog
+1809,keyword_1809,22020,76,Informational,Product
+1810,keyword_1810,49981,74,Navigational,Blog
+1811,keyword_1811,36908,45,Transactional,Blog
+1812,keyword_1812,28970,34,Transactional,Landing Page
+1813,keyword_1813,57634,46,Transactional,Blog
+1814,keyword_1814,20991,10,Transactional,Product
+1815,keyword_1815,1841,24,Transactional,Landing Page
+1816,keyword_1816,45123,46,Informational,Product
+1817,keyword_1817,25291,22,Informational,Blog
+1818,keyword_1818,838,17,Informational,Product
+1819,keyword_1819,6395,14,Navigational,Product
+1820,keyword_1820,12754,69,Transactional,Blog
+1821,keyword_1821,52360,82,Navigational,Landing Page
+1822,keyword_1822,11844,10,Transactional,Product
+1823,keyword_1823,2250,45,Informational,Blog
+1824,keyword_1824,55256,44,Navigational,Landing Page
+1825,keyword_1825,2921,75,Informational,Landing Page
+1826,keyword_1826,40387,72,Transactional,Landing Page
+1827,keyword_1827,58553,32,Transactional,Product
+1828,keyword_1828,5819,18,Transactional,Product
+1829,keyword_1829,16396,43,Informational,Product
+1830,keyword_1830,56261,55,Transactional,Landing Page
+1831,keyword_1831,55039,87,Informational,Product
+1832,keyword_1832,12418,13,Navigational,Blog
+1833,keyword_1833,53645,39,Transactional,Product
+1834,keyword_1834,25564,84,Transactional,Product
+1835,keyword_1835,57696,81,Transactional,Landing Page
+1836,keyword_1836,47117,12,Navigational,Product
+1837,keyword_1837,57890,23,Transactional,Blog
+1838,keyword_1838,28435,69,Informational,Landing Page
+1839,keyword_1839,38141,86,Informational,Blog
+1840,keyword_1840,30211,54,Transactional,Landing Page
+1841,keyword_1841,5306,43,Transactional,Landing Page
+1842,keyword_1842,41860,54,Navigational,Product
+1843,keyword_1843,12682,70,Navigational,Blog
+1844,keyword_1844,22797,25,Navigational,Landing Page
+1845,keyword_1845,56776,75,Transactional,Product
+1846,keyword_1846,20041,49,Navigational,Landing Page
+1847,keyword_1847,29421,26,Navigational,Landing Page
+1848,keyword_1848,17274,43,Informational,Landing Page
+1849,keyword_1849,45313,25,Navigational,Landing Page
+1850,keyword_1850,37698,69,Informational,Landing Page
+1851,keyword_1851,9320,75,Informational,Landing Page
+1852,keyword_1852,24570,75,Navigational,Product
+1853,keyword_1853,4732,22,Informational,Landing Page
+1854,keyword_1854,11622,65,Transactional,Blog
+1855,keyword_1855,15523,40,Transactional,Product
+1856,keyword_1856,8507,43,Navigational,Blog
+1857,keyword_1857,18405,48,Transactional,Landing Page
+1858,keyword_1858,42286,76,Informational,Blog
+1859,keyword_1859,29898,17,Transactional,Landing Page
+1860,keyword_1860,34768,87,Navigational,Landing Page
+1861,keyword_1861,7237,64,Navigational,Product
+1862,keyword_1862,36562,36,Informational,Product
+1863,keyword_1863,54737,62,Navigational,Landing Page
+1864,keyword_1864,52071,48,Transactional,Product
+1865,keyword_1865,26010,74,Navigational,Blog
+1866,keyword_1866,19926,26,Informational,Product
+1867,keyword_1867,37765,39,Navigational,Product
+1868,keyword_1868,18350,62,Transactional,Blog
+1869,keyword_1869,53213,22,Informational,Product
+1870,keyword_1870,1114,30,Transactional,Landing Page
+1871,keyword_1871,22276,28,Informational,Blog
+1872,keyword_1872,24577,62,Navigational,Landing Page
+1873,keyword_1873,9874,28,Informational,Blog
+1874,keyword_1874,52875,66,Informational,Landing Page
+1875,keyword_1875,56790,34,Navigational,Landing Page
+1876,keyword_1876,35935,40,Transactional,Product
+1877,keyword_1877,31407,64,Navigational,Landing Page
+1878,keyword_1878,57632,32,Informational,Product
+1879,keyword_1879,13909,41,Navigational,Blog
+1880,keyword_1880,17014,71,Informational,Landing Page
+1881,keyword_1881,30366,83,Navigational,Landing Page
+1882,keyword_1882,3483,19,Navigational,Blog
+1883,keyword_1883,32205,81,Transactional,Blog
+1884,keyword_1884,21162,63,Informational,Landing Page
+1885,keyword_1885,24010,61,Transactional,Blog
+1886,keyword_1886,13151,29,Informational,Product
+1887,keyword_1887,41498,41,Navigational,Blog
+1888,keyword_1888,57346,23,Informational,Blog
+1889,keyword_1889,29035,59,Transactional,Landing Page
+1890,keyword_1890,7140,37,Transactional,Product
+1891,keyword_1891,45047,62,Transactional,Blog
+1892,keyword_1892,55120,33,Informational,Product
+1893,keyword_1893,15817,88,Transactional,Product
+1894,keyword_1894,50572,31,Transactional,Product
+1895,keyword_1895,8064,39,Transactional,Landing Page
+1896,keyword_1896,27845,72,Navigational,Blog
+1897,keyword_1897,48788,13,Navigational,Landing Page
+1898,keyword_1898,29187,86,Informational,Blog
+1899,keyword_1899,58336,68,Informational,Blog
+1900,keyword_1900,14237,17,Transactional,Landing Page
+1901,keyword_1901,9823,21,Navigational,Product
+1902,keyword_1902,15729,40,Transactional,Product
+1903,keyword_1903,44981,87,Transactional,Blog
+1904,keyword_1904,9002,43,Navigational,Landing Page
+1905,keyword_1905,58582,84,Navigational,Product
+1906,keyword_1906,52893,85,Navigational,Product
+1907,keyword_1907,1045,58,Informational,Blog
+1908,keyword_1908,37614,88,Informational,Blog
+1909,keyword_1909,29930,66,Transactional,Landing Page
+1910,keyword_1910,10496,35,Informational,Blog
+1911,keyword_1911,28288,27,Navigational,Product
+1912,keyword_1912,30469,47,Navigational,Product
+1913,keyword_1913,49043,59,Informational,Product
+1914,keyword_1914,14419,17,Transactional,Product
+1915,keyword_1915,4310,50,Transactional,Landing Page
+1916,keyword_1916,31086,15,Informational,Landing Page
+1917,keyword_1917,40474,78,Transactional,Blog
+1918,keyword_1918,42273,53,Transactional,Blog
+1919,keyword_1919,16871,73,Transactional,Blog
+1920,keyword_1920,45584,38,Navigational,Landing Page
+1921,keyword_1921,30129,37,Navigational,Product
+1922,keyword_1922,51684,20,Informational,Blog
+1923,keyword_1923,8936,74,Navigational,Product
+1924,keyword_1924,13484,28,Transactional,Blog
+1925,keyword_1925,33539,18,Navigational,Blog
+1926,keyword_1926,20395,36,Informational,Blog
+1927,keyword_1927,18655,43,Navigational,Blog
+1928,keyword_1928,59106,53,Transactional,Blog
+1929,keyword_1929,11116,77,Transactional,Product
+1930,keyword_1930,37629,24,Informational,Blog
+1931,keyword_1931,40337,60,Navigational,Product
+1932,keyword_1932,50572,22,Navigational,Landing Page
+1933,keyword_1933,25074,58,Navigational,Blog
+1934,keyword_1934,3930,79,Transactional,Product
+1935,keyword_1935,54087,65,Informational,Landing Page
+1936,keyword_1936,13176,85,Navigational,Landing Page
+1937,keyword_1937,11316,60,Transactional,Landing Page
+1938,keyword_1938,33233,46,Transactional,Product
+1939,keyword_1939,20644,26,Transactional,Blog
+1940,keyword_1940,2550,67,Navigational,Blog
+1941,keyword_1941,44960,38,Navigational,Product
+1942,keyword_1942,34433,42,Navigational,Blog
+1943,keyword_1943,25451,69,Navigational,Product
+1944,keyword_1944,32913,64,Navigational,Blog
+1945,keyword_1945,35301,19,Navigational,Landing Page
+1946,keyword_1946,56119,56,Navigational,Blog
+1947,keyword_1947,33413,32,Navigational,Product
+1948,keyword_1948,47537,30,Navigational,Product
+1949,keyword_1949,54040,22,Transactional,Landing Page
+1950,keyword_1950,41100,42,Navigational,Product
+1951,keyword_1951,58275,33,Informational,Blog
+1952,keyword_1952,25780,20,Transactional,Blog
+1953,keyword_1953,25057,26,Navigational,Landing Page
+1954,keyword_1954,47554,77,Informational,Product
+1955,keyword_1955,35900,56,Navigational,Landing Page
+1956,keyword_1956,4994,34,Informational,Blog
+1957,keyword_1957,15652,82,Informational,Landing Page
+1958,keyword_1958,57708,30,Informational,Product
+1959,keyword_1959,24395,21,Informational,Landing Page
+1960,keyword_1960,9655,46,Transactional,Product
+1961,keyword_1961,32383,51,Transactional,Product
+1962,keyword_1962,43694,26,Informational,Blog
+1963,keyword_1963,43501,57,Navigational,Blog
+1964,keyword_1964,2328,37,Informational,Blog
+1965,keyword_1965,59952,50,Transactional,Product
+1966,keyword_1966,45528,56,Navigational,Landing Page
+1967,keyword_1967,42398,27,Transactional,Product
+1968,keyword_1968,32623,87,Transactional,Blog
+1969,keyword_1969,38073,80,Navigational,Blog
+1970,keyword_1970,1306,22,Informational,Landing Page
+1971,keyword_1971,59307,22,Informational,Blog
+1972,keyword_1972,57138,40,Informational,Blog
+1973,keyword_1973,41470,11,Informational,Blog
+1974,keyword_1974,30257,25,Navigational,Landing Page
+1975,keyword_1975,35136,18,Navigational,Product
+1976,keyword_1976,15061,82,Navigational,Blog
+1977,keyword_1977,48780,47,Transactional,Landing Page
+1978,keyword_1978,24762,84,Navigational,Blog
+1979,keyword_1979,15399,63,Informational,Landing Page
+1980,keyword_1980,55342,65,Transactional,Blog
+1981,keyword_1981,57479,54,Informational,Landing Page
+1982,keyword_1982,49488,43,Informational,Blog
+1983,keyword_1983,16434,18,Navigational,Product
+1984,keyword_1984,38697,17,Navigational,Blog
+1985,keyword_1985,42344,16,Informational,Landing Page
+1986,keyword_1986,36832,45,Informational,Blog
+1987,keyword_1987,34657,27,Transactional,Product
+1988,keyword_1988,12093,12,Navigational,Blog
+1989,keyword_1989,40542,37,Transactional,Landing Page
+1990,keyword_1990,50476,79,Transactional,Landing Page
+1991,keyword_1991,51917,53,Transactional,Product
+1992,keyword_1992,17820,30,Informational,Landing Page
+1993,keyword_1993,27876,37,Transactional,Blog
+1994,keyword_1994,44013,63,Transactional,Blog
+1995,keyword_1995,56054,63,Informational,Blog
+1996,keyword_1996,14699,74,Navigational,Landing Page
+1997,keyword_1997,53497,30,Navigational,Blog
+1998,keyword_1998,16376,22,Transactional,Blog
+1999,keyword_1999,51448,66,Informational,Blog
+2000,keyword_2000,8745,58,Navigational,Product
